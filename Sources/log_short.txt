@@ -1,0 +1,11 @@
+﻿2023-06-10 21:49:20  Data extraction started - MOBILedit Forensic Express, version 7.4.0.20408 (x64)
+2023-06-10 21:50:52  All 4 archive files were successfully extracted
+2023-06-10 21:50:52  All 8 documents were successfully extracted
+2023-06-10 21:50:52  All 5 image files were successfully extracted
+2023-06-10 21:50:52  All 21 JSON files were successfully extracted
+2023-06-10 21:50:52  All 37 sqlite databases were successfully extracted
+2023-06-10 21:50:52  All 214 XML files were successfully extracted
+2023-06-10 21:50:52  All 922 other files were successfully extracted
+2023-06-10 21:50:52  ADB backup was successfully processed
+2023-06-10 21:49:38  All 4 applications were successfully extracted
+2023-06-10 21:50:52  Data extraction finished

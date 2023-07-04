@@ -1,0 +1,1253 @@
+﻿2023-06-10 21:49:20  Data extraction started - MOBILedit Forensic Express, version 7.4.0.20408 (x64)
+2023-06-10 21:49:20  Communication type: ADB Connector
+2023-06-10 21:49:20  Starting export... OK
+2023-06-10 21:49:20  Preparing report data... OK
+2023-06-10 21:49:38  Processing application descriptions... OK (4 apps, 16 files copied)
+2023-06-10 21:49:48  Reading files...
+2023-06-10 21:49:48  Reading file: /data/system_ce/0/accounts_ce.db... OK
+2023-06-10 21:49:49  Reading file: /data/system_de/0/accounts_de.db... OK
+2023-06-10 21:49:49  Reading file: /data/system_de/0/accounts_de.db-journal... OK
+2023-06-10 21:49:49  Reading file: /getprop.txt... OK
+2023-06-10 21:49:49  Reading file: /Content Providers/CellInfo.xml... OK
+2023-06-10 21:49:51  Reading file: /Content Providers/SettingsGlobal.xml... OK
+2023-06-10 21:49:52  Reading file: /Content Providers/SettingsSecure.xml... OK
+2023-06-10 21:49:57  Reading file: /Dumpsys/meminfo.log... OK
+2023-06-10 21:49:57  Reading file: /Dumpsys/usagestats.log... OK
+2023-06-10 21:49:57  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_/testdata/map_cache.key... OK
+2023-06-10 21:49:57  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/pref_store... OK
+2023-06-10 21:49:57  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/variations_seed_new... OK
+2023-06-10 21:49:57  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/variations_stamp... OK
+2023-06-10 21:49:57  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/webview_data.lock... OK
+2023-06-10 21:49:57  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/Default/Cookies... OK
+2023-06-10 21:49:57  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/Default/Cookies-journal... OK
+2023-06-10 21:49:57  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/Default/QuotaManager... OK
+2023-06-10 21:49:57  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/Default/QuotaManager-journal... OK
+2023-06-10 21:49:57  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/Default/Web Data... OK
+2023-06-10 21:49:57  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/Default/Web Data-journal... OK
+2023-06-10 21:49:57  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/Default/GPUCache/54c44fccbda5b159_0... OK
+2023-06-10 21:49:57  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/Default/GPUCache/7339bbfb859b7222_0... OK
+2023-06-10 21:49:57  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/Default/GPUCache/8e636eccdf9495f4_0... OK
+2023-06-10 21:49:57  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/Default/GPUCache/8f4be28194ce14cb_0... OK
+2023-06-10 21:49:57  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/Default/GPUCache/f7a61717b05c6833_0... OK
+2023-06-10 21:49:57  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/Default/GPUCache/index... OK
+2023-06-10 21:49:57  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/Default/GPUCache/index-dir/the-real-index... OK
+2023-06-10 21:49:58  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/Default/IndexedDB/https_id.asics.com_0.indexeddb.leveldb/000004.log... OK
+2023-06-10 21:49:58  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/Default/IndexedDB/https_id.asics.com_0.indexeddb.leveldb/000005.ldb... OK
+2023-06-10 21:49:58  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/Default/IndexedDB/https_id.asics.com_0.indexeddb.leveldb/CURRENT... OK
+2023-06-10 21:49:58  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/Default/IndexedDB/https_id.asics.com_0.indexeddb.leveldb/LOCK... OK
+2023-06-10 21:49:58  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/Default/IndexedDB/https_id.asics.com_0.indexeddb.leveldb/LOG... OK
+2023-06-10 21:49:58  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/Default/IndexedDB/https_id.asics.com_0.indexeddb.leveldb/MANIFEST-000001... OK
+2023-06-10 21:49:58  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/Default/Session Storage/000003.log... OK
+2023-06-10 21:49:58  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/Default/Session Storage/CURRENT... OK
+2023-06-10 21:49:58  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/Default/Session Storage/LOCK... OK
+2023-06-10 21:49:58  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/Default/Session Storage/LOG... OK
+2023-06-10 21:49:58  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/Default/Session Storage/MANIFEST-000001... OK
+2023-06-10 21:49:58  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/Default/databases/Databases.db... OK
+2023-06-10 21:49:58  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/app_webview/Default/databases/Databases.db-journal... OK
+2023-06-10 21:49:58  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/map_cache.canary... OK
+2023-06-10 21:49:58  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/font_unique_name_table.pb... OK
+2023-06-10 21:49:58  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Crashpad/settings.dat... OK
+2023-06-10 21:49:58  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/01b6dfd46e8c70dd_0... OK
+2023-06-10 21:49:58  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/01fa09c419b47356_0... OK
+2023-06-10 21:49:58  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/04672e1868d2bd5b_0... OK
+2023-06-10 21:49:58  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/0583fc06da1dc0bd_0... OK
+2023-06-10 21:49:58  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/064fa50ffb28d612_0... OK
+2023-06-10 21:49:58  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/0b553e5bfc6e3608_0... OK
+2023-06-10 21:49:58  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/0e0e8c9c3714be36_0... OK
+2023-06-10 21:49:58  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/128b0bf6b628dda5_0... OK
+2023-06-10 21:49:59  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/12f1218b12365ae3_0... OK
+2023-06-10 21:49:59  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/17f9b898727ebdee_0... OK
+2023-06-10 21:49:59  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/1a31f1a90f4d9d79_0... OK
+2023-06-10 21:49:59  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/1b0e98c7182a30f1_0... OK
+2023-06-10 21:49:59  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/1cc8d5276952bc55_0... OK
+2023-06-10 21:49:59  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/1ee7b5b1379a1401_0... OK
+2023-06-10 21:49:59  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/24d23086632d2a28_0... OK
+2023-06-10 21:49:59  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/281541db2c880296_0... OK
+2023-06-10 21:49:59  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/2940195bd9870d6e_0... OK
+2023-06-10 21:49:59  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/2b26fb70613ab85b_0... OK
+2023-06-10 21:49:59  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/2ecef0873f4cf1b0_0... OK
+2023-06-10 21:49:59  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/30072193ebb5b61a_0... OK
+2023-06-10 21:49:59  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/36f86cc72fa720d9_0... OK
+2023-06-10 21:49:59  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/3700437bc36bb58f_0... OK
+2023-06-10 21:49:59  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/38992f8022a3fc01_0... OK
+2023-06-10 21:49:59  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/39403460ec3a6629_0... OK
+2023-06-10 21:49:59  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/402ce91c563641aa_0... OK
+2023-06-10 21:49:59  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/495faa3901c50bbe_0... OK
+2023-06-10 21:49:59  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/49e687b9a56efeb9_0... OK
+2023-06-10 21:49:59  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/4d0c9c9b4d15451e_0... OK
+2023-06-10 21:50:00  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/4ded156ce017e5a7_0... OK
+2023-06-10 21:50:00  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/4dfe378097b8d3b7_0... OK
+2023-06-10 21:50:00  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/516d74531cc7e997_0... OK
+2023-06-10 21:50:00  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/51cc09b45ecf1045_0... OK
+2023-06-10 21:50:00  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/5494ba4e3686fa18_0... OK
+2023-06-10 21:50:00  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/56a2ec4c82638644_0... OK
+2023-06-10 21:50:00  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/5763e9e5dcc7ffb5_0... OK
+2023-06-10 21:50:00  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/5b09f49a43434ead_0... OK
+2023-06-10 21:50:00  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/5c1eb741db1b7506_0... OK
+2023-06-10 21:50:00  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/5cfee4080226f2ab_0... OK
+2023-06-10 21:50:00  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/5f66e78ab4e693fe_0... OK
+2023-06-10 21:50:00  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/6065d5bfd946af09_0... OK
+2023-06-10 21:50:00  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/610938898d33dffc_0... OK
+2023-06-10 21:50:00  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/616b8ddfd0eb3ced_0... OK
+2023-06-10 21:50:00  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/62ced5be30af9a29_0... OK
+2023-06-10 21:50:00  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/6461acfd712e5b04_0... OK
+2023-06-10 21:50:00  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/66c9ccab0d23e7d3_0... OK
+2023-06-10 21:50:00  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/67f5069e9e4c0e4b_0... OK
+2023-06-10 21:50:00  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/688eac9017177b52_0... OK
+2023-06-10 21:50:00  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/6982528dbe2e3844_0... OK
+2023-06-10 21:50:01  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/69efa0fecf696ca7_0... OK
+2023-06-10 21:50:01  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/6b799380af79b209_0... OK
+2023-06-10 21:50:01  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/6d763486f51ca783_0... OK
+2023-06-10 21:50:01  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/6ebb30277b6c5429_0... OK
+2023-06-10 21:50:01  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/6f7db713b2ff8a31_0... OK
+2023-06-10 21:50:01  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/71a46e8bc1efba4c_0... OK
+2023-06-10 21:50:01  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/741ee176478bb093_0... OK
+2023-06-10 21:50:01  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/75115063b9d3f7ff_0... OK
+2023-06-10 21:50:01  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/7a201049b8bb7f06_0... OK
+2023-06-10 21:50:01  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/7dd39d42d43f9e42_0... OK
+2023-06-10 21:50:01  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/8193690ad142ecff_0... OK
+2023-06-10 21:50:01  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/89e330675ffae800_0... OK
+2023-06-10 21:50:01  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/8ba24f48a30d8c5d_0... OK
+2023-06-10 21:50:01  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/8c128616592dc187_0... OK
+2023-06-10 21:50:01  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/8d3db655ed323ae4_0... OK
+2023-06-10 21:50:01  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/8fa8e8b4e5824f16_0... OK
+2023-06-10 21:50:01  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/92a151cbb940a334_0... OK
+2023-06-10 21:50:01  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/961497334392a85a_0... OK
+2023-06-10 21:50:01  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/98cddb158a712acc_0... OK
+2023-06-10 21:50:01  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/99ce4e6edd6f6b33_0... OK
+2023-06-10 21:50:01  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/9dab3b2fd07bd2b3_0... OK
+2023-06-10 21:50:02  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/a1f00eade9adeba1_0... OK
+2023-06-10 21:50:02  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/aad69915d22d31fe_0... OK
+2023-06-10 21:50:02  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/ada8ce7e21507210_0... OK
+2023-06-10 21:50:02  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/afb51a349cf5d274_0... OK
+2023-06-10 21:50:02  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/bbb34e61f17a58c1_0... OK
+2023-06-10 21:50:02  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/c0a1a4c81103e97f_0... OK
+2023-06-10 21:50:02  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/c43742c3a8c0715f_0... OK
+2023-06-10 21:50:02  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/c79c9239d679db06_0... OK
+2023-06-10 21:50:02  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/caf5968b354e98f3_0... OK
+2023-06-10 21:50:02  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/d14ba1fbe7dcf786_0... OK
+2023-06-10 21:50:02  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/d541cece501d0664_0... OK
+2023-06-10 21:50:02  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/d7fc70674f03f315_0... OK
+2023-06-10 21:50:02  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/dca52202f9b84cfb_0... OK
+2023-06-10 21:50:02  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/e7d50c2ef79b863c_0... OK
+2023-06-10 21:50:02  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/ea960f9e7cb352c3_0... OK
+2023-06-10 21:50:02  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/ef9778dfd4ad5da2_0... OK
+2023-06-10 21:50:02  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/f22dfcf9063d7683_0... OK
+2023-06-10 21:50:02  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/f7e2a40554584932_0... OK
+2023-06-10 21:50:02  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/ff4190f45badf51c_0... OK
+2023-06-10 21:50:03  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/index... OK
+2023-06-10 21:50:03  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/00d8869c615168b2_0... OK
+2023-06-10 21:50:03  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/03b89eef842c5b53_0... OK
+2023-06-10 21:50:03  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/09c823985f9e9751_0... OK
+2023-06-10 21:50:03  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/11c5c1011a8cbe43_0... OK
+2023-06-10 21:50:03  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/148b8b1538107f0c_0... OK
+2023-06-10 21:50:03  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/1541a1c8a59ac65d_0... OK
+2023-06-10 21:50:03  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/16f34a71a4a77506_0... OK
+2023-06-10 21:50:03  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/2c49ef2e351a3c72_0... OK
+2023-06-10 21:50:03  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/3826c7944d437e0d_0... OK
+2023-06-10 21:50:03  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/3e14c7f960e98cac_0... OK
+2023-06-10 21:50:03  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/3f4e0620c5cd3bb2_0... OK
+2023-06-10 21:50:03  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/4000857a0fb2adfc_0... OK
+2023-06-10 21:50:03  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/423daa4e618b4faf_0... OK
+2023-06-10 21:50:03  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/540745c011e588b0_0... OK
+2023-06-10 21:50:03  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/54f22cad96d3d972_0... OK
+2023-06-10 21:50:03  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/620e285c9a4e45c9_0... OK
+2023-06-10 21:50:03  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/729099c245fd2378_0... OK
+2023-06-10 21:50:03  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/75eac34f27c96de8_0... OK
+2023-06-10 21:50:03  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/7bd341ab9db647c9_0... OK
+2023-06-10 21:50:03  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/7cd812e3d2d8bdb8_0... OK
+2023-06-10 21:50:03  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/80b5b97fcf5fc28a_0... OK
+2023-06-10 21:50:04  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/868d99eaa24a1658_0... OK
+2023-06-10 21:50:04  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/8a0b84464c09fb2e_0... OK
+2023-06-10 21:50:04  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/8ea08995e349bbe7_0... OK
+2023-06-10 21:50:04  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/913a7959e31c8f39_0... OK
+2023-06-10 21:50:04  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/9948937d54669d49_0... OK
+2023-06-10 21:50:04  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/ae48905e4ce29244_0... OK
+2023-06-10 21:50:04  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/b116d615091edca6_0... OK
+2023-06-10 21:50:04  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/b117aa6f0cb99a44_0... OK
+2023-06-10 21:50:04  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/b1a09cd56fe00fff_0... OK
+2023-06-10 21:50:04  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/b45695cf8e0e7cd5_0... OK
+2023-06-10 21:50:04  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/cabfd54b8330fc05_0... OK
+2023-06-10 21:50:04  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/d09a7ea66b6e9a3b_0... OK
+2023-06-10 21:50:04  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/d1ef4bccaa8a1f70_0... OK
+2023-06-10 21:50:04  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/d3ad7fbedee5b66c_0... OK
+2023-06-10 21:50:04  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/df7af42fd25b0a40_0... OK
+2023-06-10 21:50:04  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/e07e207d48fce25c_0... OK
+2023-06-10 21:50:04  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/f47ff02828507b9a_0... OK
+2023-06-10 21:50:04  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/ff4a1c01d21d7305_0... OK
+2023-06-10 21:50:04  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/index... OK
+2023-06-10 21:50:04  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/the-real-index... OK
+2023-06-10 21:50:04  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index... OK
+2023-06-10 21:50:05  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir/the-real-index... OK
+2023-06-10 21:50:05  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/WebView/Default/HTTP Cache/index-dir/the-real-index... OK
+2023-06-10 21:50:05  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/com.google.android.gms.maps.volley/-11728732891906643189... OK
+2023-06-10 21:50:05  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/com.google.android.gms.maps.volley/-15290917791906643189... OK
+2023-06-10 21:50:05  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/image_manager_disk_cache/1464754d7d44459b3e398b7b29fef5fa8f61a8da941e6b2cb93c10bdb6fbbbb2.0... OK
+2023-06-10 21:50:05  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/image_manager_disk_cache/2d31acde5065d1cdeb1f3155a5bc4c9f7e8750facdacd231cfd549b82147ef3c.0... OK
+2023-06-10 21:50:05  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/image_manager_disk_cache/4309de5de306125e2b44c98b010da41bc3c1e55c38cbfa9b4f9d0f33f4d44f1c.0... OK
+2023-06-10 21:50:05  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/image_manager_disk_cache/5d83f87f24e5c3e8c81cdaee965c6cf56147c7ff9b5edd53fa5aed7e8a60a009.0... OK
+2023-06-10 21:50:05  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/image_manager_disk_cache/6b767cb7379fdef0411f073ffcdab63a2f889c4e2048024a7523b3958f73028b.0... OK
+2023-06-10 21:50:05  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/image_manager_disk_cache/6d0edbc9046cb62865f47d6f1324eda7b4b9a531161f12faf0aa2a3e948e52f4.0... OK
+2023-06-10 21:50:05  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/image_manager_disk_cache/9001a4d9f33327f09e83ab50cf6d3bb007eeb6c89247b7e24c88ba2cf6f3ed53.0... OK
+2023-06-10 21:50:05  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/image_manager_disk_cache/d40f68cd71961b5e21157623ef6fe6f6e0451daae2ed8e1d08c60806330e5c61.0... OK
+2023-06-10 21:50:05  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/image_manager_disk_cache/db28b639583ab1b8d01f07233b85e06e96151207f139240f5e552abbe57a0049.0... OK
+2023-06-10 21:50:05  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/image_manager_disk_cache/f2bf82fcfa51d5bfe9e427f9f1d941d0e3fb25434e355d73b9ed06f19652779f.0... OK
+2023-06-10 21:50:05  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/cache/image_manager_disk_cache/journal... OK
+2023-06-10 21:50:05  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/databases/EventLog.sqlite... OK
+2023-06-10 21:50:05  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/databases/EventLog.sqlite-journal... OK
+2023-06-10 21:50:05  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/databases/RunKeeper.sqlite... OK
+2023-06-10 21:50:05  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/databases/RunKeeper.sqlite-journal... OK
+2023-06-10 21:50:05  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/databases/com.amplitude.api... OK
+2023-06-10 21:50:05  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/databases/com.amplitude.api-journal... OK
+2023-06-10 21:50:05  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/databases/com.google.android.datatransport.events... OK
+2023-06-10 21:50:05  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/databases/com.google.android.datatransport.events-journal... OK
+2023-06-10 21:50:06  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/databases/follows_database... OK
+2023-06-10 21:50:06  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/databases/follows_database-shm... OK
+2023-06-10 21:50:06  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/databases/follows_database-wal... OK
+2023-06-10 21:50:06  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/databases/google_app_measurement_local.db... OK
+2023-06-10 21:50:06  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/databases/google_app_measurement_local.db-journal... OK
+2023-06-10 21:50:06  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/databases/guided_workouts_database... OK
+2023-06-10 21:50:06  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/databases/guided_workouts_database-shm... OK
+2023-06-10 21:50:06  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/databases/guided_workouts_database-wal... OK
+2023-06-10 21:50:06  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/databases/ue3.db... OK
+2023-06-10 21:50:06  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/databases/ue3.db-journal... OK
+2023-06-10 21:50:06  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/files/AppEventsLogger.persistedevents... OK
+2023-06-10 21:50:06  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/files/DATA_ServerControlledParametersManager.data.v1.com.fitnesskeeper.runkeeper.pro... OK
+2023-06-10 21:50:06  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/files/PersistedInstallation.W0RFRkFVTFRd+MTo2NjI4MDQyODMwMjI6YW5kcm9pZDo4MWFjNmE4OWEzNWZiYTc0.json... OK
+2023-06-10 21:50:06  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/files/SavedClientParameters.data.cs... OK
+2023-06-10 21:50:06  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/files/_m_t... OK
+2023-06-10 21:50:06  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/files/com.google.android.gms.maps._m_u... OK
+2023-06-10 21:50:06  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/files/frc_1:662804283022:android:81ac6a89a35fba74_firebase_activate.json... OK
+2023-06-10 21:50:06  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/files/frc_1:662804283022:android:81ac6a89a35fba74_firebase_defaults.json... OK
+2023-06-10 21:50:06  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/files/generatefid.lock... OK
+2023-06-10 21:50:06  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/files/profileinstaller_profileWrittenFor_lastUpdateTime.dat... OK
+2023-06-10 21:50:06  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/files/.com.google.firebase.crashlytics.files.v2:com.fitnesskeeper.runkeeper.pro/com.crashlytics.settings.json... OK
+2023-06-10 21:50:06  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/files/.com.google.firebase.crashlytics.files.v2:com.fitnesskeeper.runkeeper.pro/open-sessions/64855082020A000165795ECA4FAFA56A/event0000000000... OK
+2023-06-10 21:50:06  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/files/.com.google.firebase.crashlytics.files.v2:com.fitnesskeeper.runkeeper.pro/open-sessions/64855082020A000165795ECA4FAFA56A/event0000000001... OK
+2023-06-10 21:50:06  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/files/.com.google.firebase.crashlytics.files.v2:com.fitnesskeeper.runkeeper.pro/open-sessions/64855082020A000165795ECA4FAFA56A/keys... OK
+2023-06-10 21:50:06  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/files/.com.google.firebase.crashlytics.files.v2:com.fitnesskeeper.runkeeper.pro/open-sessions/64855082020A000165795ECA4FAFA56A/report... OK
+2023-06-10 21:50:06  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/files/.com.google.firebase.crashlytics.files.v2:com.fitnesskeeper.runkeeper.pro/open-sessions/64855082020A000165795ECA4FAFA56A/start-time... OK
+2023-06-10 21:50:07  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/files/.com.google.firebase.crashlytics.files.v2:com.fitnesskeeper.runkeeper.pro/open-sessions/64855082020A000165795ECA4FAFA56A/user-data... OK
+2023-06-10 21:50:07  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/files/.com.google.firebase.crashlytics.files.v2:com.fitnesskeeper.runkeeper.pro/open-sessions/64855082020A000165795ECA4FAFA56A/userlog... OK
+2023-06-10 21:50:07  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/files/phenotype/shared/com.google.android.gms.maps#com.fitnesskeeper.runkeeper.pro.pb... OK
+2023-06-10 21:50:07  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/no_backup/androidx.work.workdb... OK
+2023-06-10 21:50:07  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/no_backup/androidx.work.workdb-shm... OK
+2023-06-10 21:50:07  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/no_backup/androidx.work.workdb-wal... OK
+2023-06-10 21:50:07  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/no_backup/com.google.android.gms.appid-no-backup... OK
+2023-06-10 21:50:07  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/oat/arm64/Anonymous-DexFile@2524438748.vdex... OK
+2023-06-10 21:50:07  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/oat/arm64/Anonymous-DexFile@2653419650.vdex... OK
+2023-06-10 21:50:07  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/shared_prefs/FirebaseHeartBeatW0RFRkFVTFRd+MTo2NjI4MDQyODMwMjI6YW5kcm9pZDo4MWFjNmE4OWEzNWZiYTc0.xml... OK
+2023-06-10 21:50:07  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/shared_prefs/GeoMonitoringSharedPref.xml... OK
+2023-06-10 21:50:07  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/shared_prefs/WebViewChromiumPrefs.xml... OK
+2023-06-10 21:50:07  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/shared_prefs/appsflyer-data.xml... OK
+2023-06-10 21:50:07  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/shared_prefs/com.facebook.internal.SKU_DETAILS.xml... OK
+2023-06-10 21:50:07  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml... OK
+2023-06-10 21:50:07  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml... OK
+2023-06-10 21:50:07  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml... OK
+2023-06-10 21:50:07  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/shared_prefs/com.facebook.sdk.appEventPreferences.xml... OK
+2023-06-10 21:50:07  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/shared_prefs/com.facebook.sdk.attributionTracking.xml... OK
+2023-06-10 21:50:07  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/shared_prefs/com.fitnesskeeper.runkeeper.coaching.CoachingActivity.xml... OK
+2023-06-10 21:50:07  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/shared_prefs/com.fitnesskeeper.runkeeper.pro_preferences.xml... OK
+2023-06-10 21:50:07  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/shared_prefs/com.google.android.gms.appid.xml... OK
+2023-06-10 21:50:07  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/shared_prefs/com.google.android.gms.measurement.prefs.xml... OK
+2023-06-10 21:50:07  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/shared_prefs/com.google.firebase.crashlytics.xml... OK
+2023-06-10 21:50:08  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/shared_prefs/com.google.firebase.messaging.xml... OK
+2023-06-10 21:50:08  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/shared_prefs/com.google.maps.api.android.lib6.drd.PREFERENCES_FILE.xml... OK
+2023-06-10 21:50:08  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/shared_prefs/com.iterable.iterableapi.xml... OK
+2023-06-10 21:50:08  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/shared_prefs/frc_1:662804283022:android:81ac6a89a35fba74_firebase_settings.xml... OK
+2023-06-10 21:50:08  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/shared_prefs/itbl_saved_configuration.xml... OK
+2023-06-10 21:50:08  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/shared_prefs/raceRecordPreferences.xml... OK
+2023-06-10 21:50:08  Reading file: /com.fitnesskeeper.runkeeper.pro/live_data/shared_prefs/settings_preference.xml... OK
+2023-06-10 21:50:08  Reading file: /com.fitnesskeeper.runkeeper.pro/live_user_data/code_cache/com.android.opengl.shaders_cache... OK
+2023-06-10 21:50:08  Reading file: /com.fitnesskeeper.runkeeper.pro/live_user_data/code_cache/com.android.skia.shaders_cache... OK
+2023-06-10 21:50:08  Reading file: /com.mapmyfitness.android2/live_data/app_webview/BrowserMetrics-spare.pma... OK
+2023-06-10 21:50:08  Reading file: /com.mapmyfitness.android2/live_data/app_webview/pref_store... OK
+2023-06-10 21:50:08  Reading file: /com.mapmyfitness.android2/live_data/app_webview/variations_seed_new... OK
+2023-06-10 21:50:08  Reading file: /com.mapmyfitness.android2/live_data/app_webview/variations_stamp... OK
+2023-06-10 21:50:08  Reading file: /com.mapmyfitness.android2/live_data/app_webview/webview_data.lock... OK
+2023-06-10 21:50:08  Reading file: /com.mapmyfitness.android2/live_data/app_webview/Default/Cookies... OK
+2023-06-10 21:50:08  Reading file: /com.mapmyfitness.android2/live_data/app_webview/Default/Cookies-journal... OK
+2023-06-10 21:50:08  Reading file: /com.mapmyfitness.android2/live_data/app_webview/Default/Web Data... OK
+2023-06-10 21:50:08  Reading file: /com.mapmyfitness.android2/live_data/app_webview/Default/Web Data-journal... OK
+2023-06-10 21:50:08  Reading file: /com.mapmyfitness.android2/live_data/app_webview/Default/Local Storage/leveldb/000003.log... OK
+2023-06-10 21:50:08  Reading file: /com.mapmyfitness.android2/live_data/app_webview/Default/Local Storage/leveldb/CURRENT... OK
+2023-06-10 21:50:08  Reading file: /com.mapmyfitness.android2/live_data/app_webview/Default/Local Storage/leveldb/LOCK... OK
+2023-06-10 21:50:08  Reading file: /com.mapmyfitness.android2/live_data/app_webview/Default/Local Storage/leveldb/LOG... OK
+2023-06-10 21:50:08  Reading file: /com.mapmyfitness.android2/live_data/app_webview/Default/Local Storage/leveldb/MANIFEST-000001... OK
+2023-06-10 21:50:08  Reading file: /com.mapmyfitness.android2/live_data/app_webview/Default/Session Storage/000003.log... OK
+2023-06-10 21:50:08  Reading file: /com.mapmyfitness.android2/live_data/app_webview/Default/Session Storage/CURRENT... OK
+2023-06-10 21:50:08  Reading file: /com.mapmyfitness.android2/live_data/app_webview/Default/Session Storage/LOCK... OK
+2023-06-10 21:50:08  Reading file: /com.mapmyfitness.android2/live_data/app_webview/Default/Session Storage/LOG... OK
+2023-06-10 21:50:09  Reading file: /com.mapmyfitness.android2/live_data/app_webview/Default/Session Storage/MANIFEST-000001... OK
+2023-06-10 21:50:09  Reading file: /com.mapmyfitness.android2/live_data/cache/7319264671_data_table.csv... OK
+2023-06-10 21:50:09  Reading file: /com.mapmyfitness.android2/live_data/cache/7319264671_source_log.csv... OK
+2023-06-10 21:50:09  Reading file: /com.mapmyfitness.android2/live_data/cache/7319267005_data_table.csv... OK
+2023-06-10 21:50:09  Reading file: /com.mapmyfitness.android2/live_data/cache/7319267005_source_log.csv... OK
+2023-06-10 21:50:09  Reading file: /com.mapmyfitness.android2/live_data/cache/7319280991_data_table.csv... OK
+2023-06-10 21:50:09  Reading file: /com.mapmyfitness.android2/live_data/cache/7319280991_source_log.csv... OK
+2023-06-10 21:50:09  Reading file: /com.mapmyfitness.android2/live_data/cache/fitness_session_activity.lck... OK
+2023-06-10 21:50:09  Reading file: /com.mapmyfitness.android2/live_data/cache/muscle_group.lck... OK
+2023-06-10 21:50:09  Reading file: /com.mapmyfitness.android2/live_data/cache/recentltyDeletedworkout.db.lck... OK
+2023-06-10 21:50:09  Reading file: /com.mapmyfitness.android2/live_data/cache/settings.db.lck... OK
+2023-06-10 21:50:09  Reading file: /com.mapmyfitness.android2/live_data/cache/training_plan.db.lck... OK
+2023-06-10 21:50:09  Reading file: /com.mapmyfitness.android2/live_data/cache/unsynced_fitness_session.lck... OK
+2023-06-10 21:50:09  Reading file: /com.mapmyfitness.android2/live_data/cache/workout.db.lck... OK
+2023-06-10 21:50:09  Reading file: /com.mapmyfitness.android2/live_data/cache/WebView/font_unique_name_table.pb... OK
+2023-06-10 21:50:09  Reading file: /com.mapmyfitness.android2/live_data/cache/WebView/Default/HTTP Cache/Cache_Data/index... OK
+2023-06-10 21:50:09  Reading file: /com.mapmyfitness.android2/live_data/cache/WebView/Default/HTTP Cache/Cache_Data/index-dir/the-real-index... OK
+2023-06-10 21:50:09  Reading file: /com.mapmyfitness.android2/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/index... OK
+2023-06-10 21:50:09  Reading file: /com.mapmyfitness.android2/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/the-real-index... OK
+2023-06-10 21:50:09  Reading file: /com.mapmyfitness.android2/live_data/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index... OK
+2023-06-10 21:50:09  Reading file: /com.mapmyfitness.android2/live_data/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir/the-real-index... OK
+2023-06-10 21:50:09  Reading file: /com.mapmyfitness.android2/live_data/cache/data/user/0/com.mapmyfitness.android2/no_backup/androidx.work.workdb.lck... OK
+2023-06-10 21:50:09  Reading file: /com.mapmyfitness.android2/live_data/cache/fs/log_fs_2023-06-11_11:06:56:248.txt... OK
+2023-06-10 21:50:09  Reading file: /com.mapmyfitness.android2/live_data/cache/fs/log_fs_2023-06-11_11:16:04:253.txt... OK
+2023-06-10 21:50:09  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/027a64cc3c48ece1c62e42f039d2c2e3.0... OK
+2023-06-10 21:50:09  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/027a64cc3c48ece1c62e42f039d2c2e3.1... OK
+2023-06-10 21:50:10  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/197622060c29cc60036453026229a5d2.0... OK
+2023-06-10 21:50:10  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/197622060c29cc60036453026229a5d2.1... OK
+2023-06-10 21:50:10  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/218e3917339ee1145c58441d8177358c.0... OK
+2023-06-10 21:50:10  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/218e3917339ee1145c58441d8177358c.1... OK
+2023-06-10 21:50:10  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/2f483b5f283f0de9bf2e7eae5205cd2c.0... OK
+2023-06-10 21:50:10  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/2f483b5f283f0de9bf2e7eae5205cd2c.1... OK
+2023-06-10 21:50:10  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/463aa13381504d30963849ac1196e2c8.0... OK
+2023-06-10 21:50:10  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/463aa13381504d30963849ac1196e2c8.1... OK
+2023-06-10 21:50:10  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/52b302cdae4fd555bf8bd1d50bbad17a.0... OK
+2023-06-10 21:50:10  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/52b302cdae4fd555bf8bd1d50bbad17a.1... OK
+2023-06-10 21:50:10  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/73c08a2252f81e374a69789b0735987a.0... OK
+2023-06-10 21:50:10  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/73c08a2252f81e374a69789b0735987a.1... OK
+2023-06-10 21:50:10  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/86d42b7b8a517165f8dbdcee536e4344.0... OK
+2023-06-10 21:50:10  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/86d42b7b8a517165f8dbdcee536e4344.1... OK
+2023-06-10 21:50:10  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/91cdbb2e6de7fe8209c1dd65d03c32a1.0... OK
+2023-06-10 21:50:10  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/91cdbb2e6de7fe8209c1dd65d03c32a1.1... OK
+2023-06-10 21:50:10  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/97d1f466413776288ef0162e3cd30afa.0... OK
+2023-06-10 21:50:10  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/97d1f466413776288ef0162e3cd30afa.1... OK
+2023-06-10 21:50:10  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/a04dacaefa965fb72aba4517281cbb05.0... OK
+2023-06-10 21:50:10  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/a04dacaefa965fb72aba4517281cbb05.1... OK
+2023-06-10 21:50:10  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/c611e9598f778db79377c8a60a1246c5.0... OK
+2023-06-10 21:50:11  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/c611e9598f778db79377c8a60a1246c5.1... OK
+2023-06-10 21:50:11  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/ca373e9c32ea122934280a923ba11931.0... OK
+2023-06-10 21:50:11  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/ca373e9c32ea122934280a923ba11931.1... OK
+2023-06-10 21:50:11  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/ce914cfcd8b89d05b6b5dfe0a0477d44.0... OK
+2023-06-10 21:50:11  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/ce914cfcd8b89d05b6b5dfe0a0477d44.1... OK
+2023-06-10 21:50:11  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/e6f09571b36b7f78b10e86499ec9f077.0... OK
+2023-06-10 21:50:11  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/e6f09571b36b7f78b10e86499ec9f077.1... OK
+2023-06-10 21:50:11  Reading file: /com.mapmyfitness.android2/live_data/cache/http_cache/journal... OK
+2023-06-10 21:50:11  Reading file: /com.mapmyfitness.android2/live_data/cache/image_manager_disk_cache/052c54fa576a09c483279697663ff60aa7066e067bd9b1da08c217070f5132ab.0... OK
+2023-06-10 21:50:11  Reading file: /com.mapmyfitness.android2/live_data/cache/image_manager_disk_cache/0ed4f9810c5d4502ba1d32ae004f2968305eae0449bdd3b75bbe0c00b8890f62.0... OK
+2023-06-10 21:50:11  Reading file: /com.mapmyfitness.android2/live_data/cache/image_manager_disk_cache/11f9a049e104a0961a15dbc9d7698b02206588084e920f2336bf82af36f3b42b.0... OK
+2023-06-10 21:50:11  Reading file: /com.mapmyfitness.android2/live_data/cache/image_manager_disk_cache/13283b348a3e8256ab9f5d25bb09eb9c57f1da181d15890bb7a2c5402a760e6c.0... OK
+2023-06-10 21:50:11  Reading file: /com.mapmyfitness.android2/live_data/cache/image_manager_disk_cache/1958ed6b8aa9e161b5453290aaaf79ae697885263c34a1f68b2fc0081d76978e.0... OK
+2023-06-10 21:50:11  Reading file: /com.mapmyfitness.android2/live_data/cache/image_manager_disk_cache/1e8da6cbeaf4b5161c7b4b597479600fac2d1e96400278c34446538415c35b90.0... OK
+2023-06-10 21:50:11  Reading file: /com.mapmyfitness.android2/live_data/cache/image_manager_disk_cache/2db8165448a25fc964ae6a63bca8e4597aa5da0c2e0f14b8e92e2f1a3da9dcb0.0... OK
+2023-06-10 21:50:11  Reading file: /com.mapmyfitness.android2/live_data/cache/image_manager_disk_cache/32e77b4df5358891c618d04f6461259d11a34a6b00e46284b7aedd6d97c30114.0... OK
+2023-06-10 21:50:11  Reading file: /com.mapmyfitness.android2/live_data/cache/image_manager_disk_cache/35503d2cc89c69b42f15b34eeec4ae2679439b394534f732fd768332c24fcce5.0... OK
+2023-06-10 21:50:11  Reading file: /com.mapmyfitness.android2/live_data/cache/image_manager_disk_cache/385f99fb75f261a91f27f98dafbbed8aa71364fdfb03703be236e2c4eac6e2b6.0... OK
+2023-06-10 21:50:11  Reading file: /com.mapmyfitness.android2/live_data/cache/image_manager_disk_cache/413659fb8e185ff67d4d5e1b390d59d90a620a3a661fd10375dd04a07c3ef134.0... OK
+2023-06-10 21:50:11  Reading file: /com.mapmyfitness.android2/live_data/cache/image_manager_disk_cache/645095ef49329a88a54693c6a922a62d3019e2bec5c444fcf68fc4044701689e.0... OK
+2023-06-10 21:50:11  Reading file: /com.mapmyfitness.android2/live_data/cache/image_manager_disk_cache/6c0bf3be631a383ff6cbf2dba0d4ee10839194a90d19f598a199f1ff0f6b3f76.0... OK
+2023-06-10 21:50:11  Reading file: /com.mapmyfitness.android2/live_data/cache/image_manager_disk_cache/6cc2d3003ae8bf50d4d01fcdddb6349b74907b5c5ab1948142e409b7f4c3953a.0... OK
+2023-06-10 21:50:12  Reading file: /com.mapmyfitness.android2/live_data/cache/image_manager_disk_cache/6e5baef1dccf0471086e00a863f639a7280d46ef87d4ea00932b6b78454de929.0... OK
+2023-06-10 21:50:12  Reading file: /com.mapmyfitness.android2/live_data/cache/image_manager_disk_cache/7326682256ffc42b93e064901d87b5528cdf8ac0fa51b79f1ed09cdc309533c1.0... OK
+2023-06-10 21:50:12  Reading file: /com.mapmyfitness.android2/live_data/cache/image_manager_disk_cache/7f0537b0640d2f838b4c3d3cdaee6254e3b419499e0386e4a86c37344ba07c0f.0... OK
+2023-06-10 21:50:12  Reading file: /com.mapmyfitness.android2/live_data/cache/image_manager_disk_cache/c7782d8ccc209d91d4af2d1f9c6c4eb422cd7d02d641c998b7abba7034fb8f4e.0... OK
+2023-06-10 21:50:12  Reading file: /com.mapmyfitness.android2/live_data/cache/image_manager_disk_cache/ce0c6390691a7d046241fdd3c885359e2330094350b47b9871aa6e9f06c18524.0... OK
+2023-06-10 21:50:12  Reading file: /com.mapmyfitness.android2/live_data/cache/image_manager_disk_cache/d4be493c3476fe9ad1d89c9718658a1312071831b3110ff38d5568a3cdbfdd04.0... OK
+2023-06-10 21:50:12  Reading file: /com.mapmyfitness.android2/live_data/cache/image_manager_disk_cache/d8c00695bcb0ce97cba761349007aca29f35488e207addcc050eb9c2aaff9f08.0... OK
+2023-06-10 21:50:12  Reading file: /com.mapmyfitness.android2/live_data/cache/image_manager_disk_cache/dabd33be8c6770c2a7211a49b1ef9a63ab431a475cd31c3ee61c1e0dffbd9820.0... OK
+2023-06-10 21:50:12  Reading file: /com.mapmyfitness.android2/live_data/cache/image_manager_disk_cache/e5a30ce414f512b10041f768ceb5d240934d57bcab34f0e5a41fa330406eaaa0.0... OK
+2023-06-10 21:50:12  Reading file: /com.mapmyfitness.android2/live_data/cache/image_manager_disk_cache/ea4ed7ecdfd790269f94eeb9106951a1a53a01a586c74454f49673c96febb4d6.0... OK
+2023-06-10 21:50:12  Reading file: /com.mapmyfitness.android2/live_data/cache/image_manager_disk_cache/eb039a1154319e29220e0bbbe830ac4f72640e4b9d740a216426849228e42fe1.0... OK
+2023-06-10 21:50:12  Reading file: /com.mapmyfitness.android2/live_data/cache/image_manager_disk_cache/journal... OK
+2023-06-10 21:50:12  Reading file: /com.mapmyfitness.android2/live_data/cache/logs/log_2023-06-06_20-11-45.txt... OK
+2023-06-10 21:50:12  Reading file: /com.mapmyfitness.android2/live_data/cache/zendesk/zendesk_media_cache/journal... OK
+2023-06-10 21:50:12  Reading file: /com.mapmyfitness.android2/live_data/databases/AttachmentComposition... OK
+2023-06-10 21:50:12  Reading file: /com.mapmyfitness.android2/live_data/databases/AttachmentComposition-journal... OK
+2023-06-10 21:50:12  Reading file: /com.mapmyfitness.android2/live_data/databases/activity_database... OK
+2023-06-10 21:50:12  Reading file: /com.mapmyfitness.android2/live_data/databases/activity_database-journal... OK
+2023-06-10 21:50:12  Reading file: /com.mapmyfitness.android2/live_data/databases/com.amplitude.api... OK
+2023-06-10 21:50:12  Reading file: /com.mapmyfitness.android2/live_data/databases/com.amplitude.api-journal... OK
+2023-06-10 21:50:12  Reading file: /com.mapmyfitness.android2/live_data/databases/com.google.android.datatransport.events... OK
+2023-06-10 21:50:12  Reading file: /com.mapmyfitness.android2/live_data/databases/com.google.android.datatransport.events-journal... OK
+2023-06-10 21:50:13  Reading file: /com.mapmyfitness.android2/live_data/databases/fitness_session_activity... OK
+2023-06-10 21:50:13  Reading file: /com.mapmyfitness.android2/live_data/databases/fitness_session_activity-shm... OK
+2023-06-10 21:50:13  Reading file: /com.mapmyfitness.android2/live_data/databases/fitness_session_activity-wal... OK
+2023-06-10 21:50:13  Reading file: /com.mapmyfitness.android2/live_data/databases/google_app_measurement_local.db... OK
+2023-06-10 21:50:13  Reading file: /com.mapmyfitness.android2/live_data/databases/google_app_measurement_local.db-journal... OK
+2023-06-10 21:50:13  Reading file: /com.mapmyfitness.android2/live_data/databases/io-uacf-dataseries-journal.db... OK
+2023-06-10 21:50:13  Reading file: /com.mapmyfitness.android2/live_data/databases/io-uacf-dataseries-journal.db-journal... OK
+2023-06-10 21:50:13  Reading file: /com.mapmyfitness.android2/live_data/databases/io-uacf-dataseries-store.db... OK
+2023-06-10 21:50:13  Reading file: /com.mapmyfitness.android2/live_data/databases/io-uacf-dataseries-store.db-journal... OK
+2023-06-10 21:50:13  Reading file: /com.mapmyfitness.android2/live_data/databases/io-uacf-rollouts.db... OK
+2023-06-10 21:50:13  Reading file: /com.mapmyfitness.android2/live_data/databases/io-uacf-rollouts.db-journal... OK
+2023-06-10 21:50:13  Reading file: /com.mapmyfitness.android2/live_data/databases/mmdk_user... OK
+2023-06-10 21:50:13  Reading file: /com.mapmyfitness.android2/live_data/databases/mmdk_user-journal... OK
+2023-06-10 21:50:13  Reading file: /com.mapmyfitness.android2/live_data/databases/mmdk_user_gear... OK
+2023-06-10 21:50:13  Reading file: /com.mapmyfitness.android2/live_data/databases/mmdk_user_gear-journal... OK
+2023-06-10 21:50:13  Reading file: /com.mapmyfitness.android2/live_data/databases/muscle_group... OK
+2023-06-10 21:50:13  Reading file: /com.mapmyfitness.android2/live_data/databases/muscle_group-shm... OK
+2023-06-10 21:50:13  Reading file: /com.mapmyfitness.android2/live_data/databases/muscle_group-wal... OK
+2023-06-10 21:50:13  Reading file: /com.mapmyfitness.android2/live_data/databases/notification-inbox.db... OK
+2023-06-10 21:50:13  Reading file: /com.mapmyfitness.android2/live_data/databases/notification-inbox.db-journal... OK
+2023-06-10 21:50:13  Reading file: /com.mapmyfitness.android2/live_data/databases/recentltyDeletedworkout.db... OK
+2023-06-10 21:50:13  Reading file: /com.mapmyfitness.android2/live_data/databases/recentltyDeletedworkout.db-shm... OK
+2023-06-10 21:50:14  Reading file: /com.mapmyfitness.android2/live_data/databases/recentltyDeletedworkout.db-wal... OK
+2023-06-10 21:50:14  Reading file: /com.mapmyfitness.android2/live_data/databases/settings.db... OK
+2023-06-10 21:50:14  Reading file: /com.mapmyfitness.android2/live_data/databases/settings.db-shm... OK
+2023-06-10 21:50:14  Reading file: /com.mapmyfitness.android2/live_data/databases/settings.db-wal... OK
+2023-06-10 21:50:14  Reading file: /com.mapmyfitness.android2/live_data/databases/training_plan.db... OK
+2023-06-10 21:50:14  Reading file: /com.mapmyfitness.android2/live_data/databases/training_plan.db-shm... OK
+2023-06-10 21:50:14  Reading file: /com.mapmyfitness.android2/live_data/databases/training_plan.db-wal... OK
+2023-06-10 21:50:14  Reading file: /com.mapmyfitness.android2/live_data/databases/training_plan_session.db... OK
+2023-06-10 21:50:14  Reading file: /com.mapmyfitness.android2/live_data/databases/training_plan_session.db-journal... OK
+2023-06-10 21:50:14  Reading file: /com.mapmyfitness.android2/live_data/databases/uacfdevicesdkdatabase... OK
+2023-06-10 21:50:14  Reading file: /com.mapmyfitness.android2/live_data/databases/uacfdevicesdkdatabase-journal... OK
+2023-06-10 21:50:14  Reading file: /com.mapmyfitness.android2/live_data/databases/uasdk_user_autocomplete... OK
+2023-06-10 21:50:14  Reading file: /com.mapmyfitness.android2/live_data/databases/uasdk_user_autocomplete-journal... OK
+2023-06-10 21:50:14  Reading file: /com.mapmyfitness.android2/live_data/databases/uasdk_workout... OK
+2023-06-10 21:50:14  Reading file: /com.mapmyfitness.android2/live_data/databases/uasdk_workout-journal... OK
+2023-06-10 21:50:14  Reading file: /com.mapmyfitness.android2/live_data/databases/unsynced_fitness_session... OK
+2023-06-10 21:50:14  Reading file: /com.mapmyfitness.android2/live_data/databases/unsynced_fitness_session-shm... OK
+2023-06-10 21:50:14  Reading file: /com.mapmyfitness.android2/live_data/databases/unsynced_fitness_session-wal... OK
+2023-06-10 21:50:14  Reading file: /com.mapmyfitness.android2/live_data/databases/workout.db... OK
+2023-06-10 21:50:14  Reading file: /com.mapmyfitness.android2/live_data/databases/workout.db-shm... OK
+2023-06-10 21:50:14  Reading file: /com.mapmyfitness.android2/live_data/databases/workout.db-wal... OK
+2023-06-10 21:50:14  Reading file: /com.mapmyfitness.android2/live_data/files/DATA_ServerControlledParametersManager.data.com.mapmyfitness.android2... OK
+2023-06-10 21:50:14  Reading file: /com.mapmyfitness.android2/live_data/files/DATA_disk_creation_time_its... OK
+2023-06-10 21:50:15  Reading file: /com.mapmyfitness.android2/live_data/files/DATA_disk_creation_time_its_ter... OK
+2023-06-10 21:50:15  Reading file: /com.mapmyfitness.android2/live_data/files/DATA_disk_creation_time_vts_com.mapmyfitness.android2_default... OK
+2023-06-10 21:50:15  Reading file: /com.mapmyfitness.android2/live_data/files/DATA_disk_creation_time_vts_inaka_com.mapmyfitness.android2_default... OK
+2023-06-10 21:50:15  Reading file: /com.mapmyfitness.android2/live_data/files/DATA_disk_creation_time_vts_labl_com.mapmyfitness.android2_default... OK
+2023-06-10 21:50:15  Reading file: /com.mapmyfitness.android2/live_data/files/DATA_disk_creation_time_vts_no_pois_com.mapmyfitness.android2_default... OK
+2023-06-10 21:50:15  Reading file: /com.mapmyfitness.android2/live_data/files/PersistedInstallation.W0RFRkFVTFRd+MToxNDM4MjgxOTM0NzU6YW5kcm9pZDowOTUzNWEyM2U4YWNjZmNm.json... OK
+2023-06-10 21:50:15  Reading file: /com.mapmyfitness.android2/live_data/files/ZoomTables.data.v1... OK
+2023-06-10 21:50:15  Reading file: /com.mapmyfitness.android2/live_data/files/_m_t... OK
+2023-06-10 21:50:15  Reading file: /com.mapmyfitness.android2/live_data/files/com.google.android.gms.maps._m_u... OK
+2023-06-10 21:50:15  Reading file: /com.mapmyfitness.android2/live_data/files/frc_1:143828193475:android:09535a23e8accfcf_fireperf_activate.json... OK
+2023-06-10 21:50:15  Reading file: /com.mapmyfitness.android2/live_data/files/generatefid.lock... OK
+2023-06-10 21:50:15  Reading file: /com.mapmyfitness.android2/live_data/files/.com.google.firebase.crashlytics.files.v2:com.mapmyfitness.android2/com.crashlytics.settings.json... OK
+2023-06-10 21:50:15  Reading file: /com.mapmyfitness.android2/live_data/files/.com.google.firebase.crashlytics.files.v2:com.mapmyfitness.android2/open-sessions/64854D2B02C50001463B0E154DBEBA76/keys... OK
+2023-06-10 21:50:15  Reading file: /com.mapmyfitness.android2/live_data/files/.com.google.firebase.crashlytics.files.v2:com.mapmyfitness.android2/open-sessions/64854D2B02C50001463B0E154DBEBA76/report... OK
+2023-06-10 21:50:15  Reading file: /com.mapmyfitness.android2/live_data/files/.com.google.firebase.crashlytics.files.v2:com.mapmyfitness.android2/open-sessions/64854D2B02C50001463B0E154DBEBA76/start-time... OK
+2023-06-10 21:50:15  Reading file: /com.mapmyfitness.android2/live_data/files/.com.google.firebase.crashlytics.files.v2:com.mapmyfitness.android2/open-sessions/64854D2B02C50001463B0E154DBEBA76/user-data... OK
+2023-06-10 21:50:15  Reading file: /com.mapmyfitness.android2/live_data/files/.com.google.firebase.crashlytics.files.v2:com.mapmyfitness.android2/open-sessions/64854D2B02C50001463B0E154DBEBA76/userlog... OK
+2023-06-10 21:50:15  Reading file: /com.mapmyfitness.android2/live_data/files/datastore/BatteryOptimizationDataStore.preferences_pb... OK
+2023-06-10 21:50:15  Reading file: /com.mapmyfitness.android2/live_data/files/datastore/LoyaltytPreferences.preferences_pb... OK
+2023-06-10 21:50:15  Reading file: /com.mapmyfitness.android2/live_data/files/datastore/recordQualityAnalytics.preferences_pb... OK
+2023-06-10 21:50:15  Reading file: /com.mapmyfitness.android2/live_data/files/datastore/studioTape.preferences_pb... OK
+2023-06-10 21:50:15  Reading file: /com.mapmyfitness.android2/live_data/files/phenotype/shared/com.google.android.gms.maps#com.mapmyfitness.android2.pb... OK
+2023-06-10 21:50:15  Reading file: /com.mapmyfitness.android2/live_data/files/workout/1.json... OK
+2023-06-10 21:50:16  Reading file: /com.mapmyfitness.android2/live_data/files/workout/2.json... OK
+2023-06-10 21:50:16  Reading file: /com.mapmyfitness.android2/live_data/files/workout/5.json... OK
+2023-06-10 21:50:16  Reading file: /com.mapmyfitness.android2/live_data/files/workout/6.json... OK
+2023-06-10 21:50:16  Reading file: /com.mapmyfitness.android2/live_data/no_backup/androidx.work.workdb... OK
+2023-06-10 21:50:16  Reading file: /com.mapmyfitness.android2/live_data/no_backup/androidx.work.workdb-shm... OK
+2023-06-10 21:50:16  Reading file: /com.mapmyfitness.android2/live_data/no_backup/androidx.work.workdb-wal... OK
+2023-06-10 21:50:16  Reading file: /com.mapmyfitness.android2/live_data/no_backup/com.google.android.gms.appid-no-backup... OK
+2023-06-10 21:50:16  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/AppStoreHelper.xml... OK
+2023-06-10 21:50:16  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/BNC_Server_Request_Queue.xml... OK
+2023-06-10 21:50:16  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/ConfigurationSharedPrefs.xml... OK
+2023-06-10 21:50:16  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/EmailVerificationSettings.xml... OK
+2023-06-10 21:50:16  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/FirebaseHeartBeatW0RFRkFVTFRd+MToxNDM4MjgxOTM0NzU6YW5kcm9pZDowOTUzNWEyM2U4YWNjZmNm.xml... OK
+2023-06-10 21:50:16  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/FirebasePerfSharedPrefs.xml... OK
+2023-06-10 21:50:16  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/GeoMonitoringSharedPref.xml... OK
+2023-06-10 21:50:16  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/Loyalty_Enrollment_Status.xml... OK
+2023-06-10 21:50:16  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/MAPMYFITNESS.xml... OK
+2023-06-10 21:50:16  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/MMFPreferences.xml... OK
+2023-06-10 21:50:16  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/MapviewInitializerPreferences.xml... OK
+2023-06-10 21:50:16  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/NotificationInboxSettings.xml... OK
+2023-06-10 21:50:16  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/POPUP_SETTINGS.xml... OK
+2023-06-10 21:50:16  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/PremiumNagServicePreferences218288821.xml... OK
+2023-06-10 21:50:16  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/UacfAnalyticsSessionTracker.xml... OK
+2023-06-10 21:50:16  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/Upsell Ad Counter.xml... OK
+2023-06-10 21:50:16  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/WebViewChromiumPrefs.xml... OK
+2023-06-10 21:50:17  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/analyticsSession.xml... OK
+2023-06-10 21:50:17  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/branch_referral_shared_pref.xml... OK
+2023-06-10 21:50:17  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/com.google.android.gms.appid.xml... OK
+2023-06-10 21:50:17  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/com.google.android.gms.measurement.prefs.xml... OK
+2023-06-10 21:50:17  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/com.google.firebase.crashlytics.xml... OK
+2023-06-10 21:50:17  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/com.google.firebase.messaging.xml... OK
+2023-06-10 21:50:17  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/com.google.maps.api.android.lib6.drd.PREFERENCES_FILE.xml... OK
+2023-06-10 21:50:17  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/com.mapmyfitness.android.trainingplan.TrainingPlanSettings.xml... OK
+2023-06-10 21:50:17  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/currentUserId.xml... OK
+2023-06-10 21:50:17  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/deviceLocationManager.xml... OK
+2023-06-10 21:50:17  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/eventLogHarness_prefs.xml... OK
+2023-06-10 21:50:17  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/fcm_.xml... OK
+2023-06-10 21:50:17  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/frc_1:143828193475:android:09535a23e8accfcf_fireperf_settings.xml... OK
+2023-06-10 21:50:17  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/insightStorage.xml... OK
+2023-06-10 21:50:17  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/live_tracking.xml... OK
+2023-06-10 21:50:17  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/location_.xml... OK
+2023-06-10 21:50:17  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/mmdk_shared_prefs.xml... OK
+2023-06-10 21:50:17  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/ntpSystemTime.xml... OK
+2023-06-10 21:50:17  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/permissionPrefs.xml... OK
+2023-06-10 21:50:17  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/postWorkoutInterstitialPref.xml... OK
+2023-06-10 21:50:17  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/premium_status_218288821.xml... OK
+2023-06-10 21:50:18  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/rateAppPref.xml... OK
+2023-06-10 21:50:18  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/recordStats.xml... OK
+2023-06-10 21:50:18  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/record_settings_storage.xml... OK
+2023-06-10 21:50:18  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/record_stats_storage.xml... OK
+2023-06-10 21:50:18  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/record_timer_storage.xml... OK
+2023-06-10 21:50:18  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/screen_glance_storage.xml... OK
+2023-06-10 21:50:18  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/studioFormCoachingStateStorage.xml... OK
+2023-06-10 21:50:18  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/sync-settings.xml... OK
+2023-06-10 21:50:18  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/userProfilePhotoHack.xml... OK
+2023-06-10 21:50:18  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/zendesk_additional_sdk.xml... OK
+2023-06-10 21:50:18  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/zendesk_identity.xml... OK
+2023-06-10 21:50:18  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/zendesk_sdk.xml... OK
+2023-06-10 21:50:18  Reading file: /com.mapmyfitness.android2/live_data/shared_prefs/zendesk_settings.xml... OK
+2023-06-10 21:50:18  Reading file: /com.mapmyfitness.android2/live_user_data/code_cache/com.android.opengl.shaders_cache... OK
+2023-06-10 21:50:18  Reading file: /com.mapmyfitness.android2/live_user_data/code_cache/com.android.skia.shaders_cache... OK
+2023-06-10 21:50:18  Reading file: /com.myfitnesspal.android/live_data/app_pccache/5/308415C5B3F70708D865D9CBF199DCC561995510/pcam.jar... OK
+2023-06-10 21:50:18  Reading file: /com.myfitnesspal.android/live_data/app_pccache/5/308415C5B3F70708D865D9CBF199DCC561995510/pcbc... OK
+2023-06-10 21:50:18  Reading file: /com.myfitnesspal.android/live_data/app_pccache/5/308415C5B3F70708D865D9CBF199DCC561995510/oat/pcam.jar.cur.prof... OK
+2023-06-10 21:50:18  Reading file: /com.myfitnesspal.android/live_data/app_pccache/5/308415C5B3F70708D865D9CBF199DCC561995510/oat/pcam.jar.prof... OK
+2023-06-10 21:50:18  Reading file: /com.myfitnesspal.android/live_data/app_pccache/5/308415C5B3F70708D865D9CBF199DCC561995510/oat/arm64/pcam.art... OK
+2023-06-10 21:50:18  Reading file: /com.myfitnesspal.android/live_data/app_pccache/5/308415C5B3F70708D865D9CBF199DCC561995510/oat/arm64/pcam.odex... OK
+2023-06-10 21:50:18  Reading file: /com.myfitnesspal.android/live_data/app_pccache/5/308415C5B3F70708D865D9CBF199DCC561995510/oat/arm64/pcam.vdex... OK
+2023-06-10 21:50:18  Reading file: /com.myfitnesspal.android/live_data/app_segment-disk-queue/oIKRqI8KWOgTvDgIcfrGmXHbgL9Glsoh... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/BrowserMetrics-spare.pma... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/pref_store... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/variations_seed... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/variations_stamp... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/webview_data.lock... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/Cookies... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/Cookies-journal... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/Web Data... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/Web Data-journal... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/GPUCache/index... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/GPUCache/index-dir/the-real-index... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/Local Storage/leveldb/000003.log... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/Local Storage/leveldb/CURRENT... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/Local Storage/leveldb/LOCK... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/Local Storage/leveldb/LOG... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/Local Storage/leveldb/LOG.old... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/Local Storage/leveldb/MANIFEST-000001... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/PersistentOriginTrials/LOCK... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/PersistentOriginTrials/LOG... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/PersistentOriginTrials/LOG.old... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/Session Storage/000003.log... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/Session Storage/CURRENT... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/Session Storage/LOCK... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/Session Storage/LOG... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/Session Storage/MANIFEST-000001... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/VideoDecodeStats/LOCK... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/VideoDecodeStats/LOG... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/shared_proto_db/000003.log... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/shared_proto_db/CURRENT... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/shared_proto_db/LOCK... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/shared_proto_db/LOG... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/shared_proto_db/LOG.old... OK
+2023-06-10 21:50:19  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/shared_proto_db/MANIFEST-000001... OK
+2023-06-10 21:50:20  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/shared_proto_db/metadata/000003.log... OK
+2023-06-10 21:50:20  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/shared_proto_db/metadata/CURRENT... OK
+2023-06-10 21:50:20  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/shared_proto_db/metadata/LOCK... OK
+2023-06-10 21:50:20  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/shared_proto_db/metadata/LOG... OK
+2023-06-10 21:50:20  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/shared_proto_db/metadata/LOG.old... OK
+2023-06-10 21:50:20  Reading file: /com.myfitnesspal.android/live_data/app_webview_com.myfitnesspal.android/Default/shared_proto_db/metadata/MANIFEST-000001... OK
+2023-06-10 21:50:20  Reading file: /com.myfitnesspal.android/live_data/cache/86obs62h.lck... OK
+2023-06-10 21:50:20  Reading file: /com.myfitnesspal.android/live_data/cache/fasting.db.lck... OK
+2023-06-10 21:50:20  Reading file: /com.myfitnesspal.android/live_data/cache/ab_triggers/375792300.jpg... OK
+2023-06-10 21:50:20  Reading file: /com.myfitnesspal.android/live_data/cache/appboy.imageloader.lru.cache/journal... OK
+2023-06-10 21:50:20  Reading file: /com.myfitnesspal.android/live_data/cache/data/user/0/com.myfitnesspal.android/no_backup/androidx.work.workdb.lck... OK
+2023-06-10 21:50:20  Reading file: /com.myfitnesspal.android/live_data/cache/fs/log_fs_2023-06-11_11:07:00:857.txt... OK
+2023-06-10 21:50:20  Reading file: /com.myfitnesspal.android/live_data/cache/fs/log_fs_2023-06-11_11:32:53:171.txt... OK
+2023-06-10 21:50:20  Reading file: /com.myfitnesspal.android/live_data/cache/image_manager_disk_cache/043ed2b4a4a28c0699b8f6994f5e3bae5561cbd7aeb6c5d84b5baf31edf7d563.0... OK
+2023-06-10 21:50:20  Reading file: /com.myfitnesspal.android/live_data/cache/image_manager_disk_cache/0d0aa84b5c64045587a117f7bc6957484230809b44ccc65e8bd1a9dc69d9df07.0... OK
+2023-06-10 21:50:20  Reading file: /com.myfitnesspal.android/live_data/cache/image_manager_disk_cache/0f3c1c6da5e2b7914de5c913aa7f33cc60f0eb768d44ffd13ac55c18a30f7e9a.0... OK
+2023-06-10 21:50:20  Reading file: /com.myfitnesspal.android/live_data/cache/image_manager_disk_cache/24c7bbc596393eb3bf56c933800fc53152105da64debbc28efe5de6ff90e0976.0... OK
+2023-06-10 21:50:20  Reading file: /com.myfitnesspal.android/live_data/cache/image_manager_disk_cache/2bc12d06c460f6135e7e347a453ec6385135856d418a2f3e07baeb3d0370742d.0... OK
+2023-06-10 21:50:20  Reading file: /com.myfitnesspal.android/live_data/cache/image_manager_disk_cache/3281c37c016094baef3c4a60f3752425021c17cbea6dab5b9afc45b355cadac8.0... OK
+2023-06-10 21:50:20  Reading file: /com.myfitnesspal.android/live_data/cache/image_manager_disk_cache/3c25abe809a63619c6b001ff668cd5337dcf27bcafeb0f3e33638e97367029b2.0... OK
+2023-06-10 21:50:20  Reading file: /com.myfitnesspal.android/live_data/cache/image_manager_disk_cache/3f88e89eba8352ec28aaeb1c831ebada40e5bca3e460780a392b8fa5c51be466.0... OK
+2023-06-10 21:50:20  Reading file: /com.myfitnesspal.android/live_data/cache/image_manager_disk_cache/4369f5edba4be9850b04029b56936f22a926485f512f6daf5c0414ec50243412.0... OK
+2023-06-10 21:50:20  Reading file: /com.myfitnesspal.android/live_data/cache/image_manager_disk_cache/45460e8cc6fcd7c8de7379c1bb9a2300e07230f00adeffb17c00c3870d8f8bcb.0... OK
+2023-06-10 21:50:20  Reading file: /com.myfitnesspal.android/live_data/cache/image_manager_disk_cache/483e01e98551c3ed0b6b986aeb4aab282760b7f50b379bbb3cef1a68aae05041.0... OK
+2023-06-10 21:50:20  Reading file: /com.myfitnesspal.android/live_data/cache/image_manager_disk_cache/4f5ba51b824220365e32b4b8d7ee1e83352212d9de8b6ead6ca050cc6e35e8a8.0... OK
+2023-06-10 21:50:20  Reading file: /com.myfitnesspal.android/live_data/cache/image_manager_disk_cache/5da937b23acbd1e88eff3a721525a011ffdee0149e900093175ef4b54742a9f8.0... OK
+2023-06-10 21:50:21  Reading file: /com.myfitnesspal.android/live_data/cache/image_manager_disk_cache/7c814e83407cae0f2fa094c4a1401f94b1ac636a0d4fcceafad59ca788311c4f.0... OK
+2023-06-10 21:50:21  Reading file: /com.myfitnesspal.android/live_data/cache/image_manager_disk_cache/7e9e69e9c86120224c616e355cfe4300ffd610f7ac8504cb411877a5ffd96fc1.0... OK
+2023-06-10 21:50:21  Reading file: /com.myfitnesspal.android/live_data/cache/image_manager_disk_cache/7fdf17fc619eef3892c6d4a442d135a6cde2a78b924b8bb19c0a7841907e9205.0... OK
+2023-06-10 21:50:21  Reading file: /com.myfitnesspal.android/live_data/cache/image_manager_disk_cache/b9395f85cccf2876c200fcdd29055227df7d5eb36d044517c00a1e54b65eb927.0... OK
+2023-06-10 21:50:21  Reading file: /com.myfitnesspal.android/live_data/cache/image_manager_disk_cache/bde006e1d6ebb85dd5ddb18522a01c07382cfea7e2239b4342465efac4c64c16.0... OK
+2023-06-10 21:50:21  Reading file: /com.myfitnesspal.android/live_data/cache/image_manager_disk_cache/c491133838f111399b0650bdbc931699cb579754dec2fba24401ace4189509b1.0... OK
+2023-06-10 21:50:21  Reading file: /com.myfitnesspal.android/live_data/cache/image_manager_disk_cache/d1c67c95d2412ccb2e485edf03ecbd0c293fdcce6415d51dd3d3b945751120ce.0... OK
+2023-06-10 21:50:21  Reading file: /com.myfitnesspal.android/live_data/cache/image_manager_disk_cache/d46ff086c00ad744a8b16699025c4ad64626d08f53c615b237e2f4fde7bf6257.0... OK
+2023-06-10 21:50:21  Reading file: /com.myfitnesspal.android/live_data/cache/image_manager_disk_cache/d54d64e1a58b6a9b4dc1f85724176814576733d13acef04dfc7a35cf430c5fbe.0... OK
+2023-06-10 21:50:21  Reading file: /com.myfitnesspal.android/live_data/cache/image_manager_disk_cache/eda0092b0c42980588d209238e6cfce38f6a1a8c0ea78bc86daec706b56a70a4.0... OK
+2023-06-10 21:50:21  Reading file: /com.myfitnesspal.android/live_data/cache/image_manager_disk_cache/f8232e4f5c2345336c869280917bcb6b36f33c1c4e2f0b0374a55a59d966feac.0... OK
+2023-06-10 21:50:21  Reading file: /com.myfitnesspal.android/live_data/cache/image_manager_disk_cache/journal... OK
+2023-06-10 21:50:21  Reading file: /com.myfitnesspal.android/live_data/cache/volley/-139605349995085421... OK
+2023-06-10 21:50:21  Reading file: /com.myfitnesspal.android/live_data/cache/volley/-1661412709-2019316947... OK
+2023-06-10 21:50:21  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/font_unique_name_table.pb... OK
+2023-06-10 21:50:21  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Crashpad/settings.dat... OK
+2023-06-10 21:50:21  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/000d97033fdcb64d_0... OK
+2023-06-10 21:50:21  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/000eff832908115e_0... OK
+2023-06-10 21:50:21  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/0052ba030edb9c10_0... OK
+2023-06-10 21:50:21  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/0308071dd49108bd_0... OK
+2023-06-10 21:50:21  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/046ed5f3f396e96e_0... OK
+2023-06-10 21:50:21  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/04a1fec24a3924e5_0... OK
+2023-06-10 21:50:21  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/0524effae6b5e8a7_0... OK
+2023-06-10 21:50:21  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/0546ffd228480da3_0... OK
+2023-06-10 21:50:22  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/05b6932b783ecce5_0... OK
+2023-06-10 21:50:22  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/076b2a9aa215f66d_0... OK
+2023-06-10 21:50:22  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/086dc6052f98da3b_0... OK
+2023-06-10 21:50:22  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/08b7425b79f23840_0... OK
+2023-06-10 21:50:22  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/0a5e49b89f6e5151_0... OK
+2023-06-10 21:50:22  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/0b2e96ae40ee5c53_0... OK
+2023-06-10 21:50:22  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/0c233c599a9f0040_0... OK
+2023-06-10 21:50:22  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/0c8eae30e59e31be_0... OK
+2023-06-10 21:50:22  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/0ebc831c6adfa240_0... OK
+2023-06-10 21:50:22  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/113e2259012b2299_0... OK
+2023-06-10 21:50:22  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/12046ea5ffac9125_0... OK
+2023-06-10 21:50:22  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/12398af139d8cd2d_0... OK
+2023-06-10 21:50:22  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/145aaa1b8b4d1b33_0... OK
+2023-06-10 21:50:22  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/14e6f087fa18bbf1_0... OK
+2023-06-10 21:50:22  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/156d247c2b0d6612_0... OK
+2023-06-10 21:50:22  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/1625409feb5a7c73_0... OK
+2023-06-10 21:50:22  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/16e1283b876348e3_0... OK
+2023-06-10 21:50:22  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/181af82d6daa7573_0... OK
+2023-06-10 21:50:22  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/1984dc969b3e4007_0... OK
+2023-06-10 21:50:22  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/1a4b4a93b460a0ba_0... OK
+2023-06-10 21:50:22  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/1aebd378809c2609_0... OK
+2023-06-10 21:50:23  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/1d778f4fe361897a_0... OK
+2023-06-10 21:50:23  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/1e5f9ea5b44f9812_0... OK
+2023-06-10 21:50:23  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/1fc078746e53160f_0... OK
+2023-06-10 21:50:23  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/217ac748510b84a0_0... OK
+2023-06-10 21:50:23  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/236750211eb09aec_0... OK
+2023-06-10 21:50:23  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/24f6a8153e42b00d_0... OK
+2023-06-10 21:50:23  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/2593bb7bec29888d_0... OK
+2023-06-10 21:50:23  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/25b286f427ef23e7_0... OK
+2023-06-10 21:50:23  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/25bfc202b3bb2da2_0... OK
+2023-06-10 21:50:23  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/282813dfd7d15d68_0... OK
+2023-06-10 21:50:23  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/2dfa6bc6fe68b26d_0... OK
+2023-06-10 21:50:23  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/2e5e63725af3721b_0... OK
+2023-06-10 21:50:23  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/2f3fe469b068c9e3_0... OK
+2023-06-10 21:50:23  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/308c22a790160211_0... OK
+2023-06-10 21:50:23  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/312b9b339979a6c2_0... OK
+2023-06-10 21:50:23  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/320e69e1fe30e768_0... OK
+2023-06-10 21:50:23  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/3315aa7962d3140b_0... OK
+2023-06-10 21:50:23  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/33d3930f643eaf1a_0... OK
+2023-06-10 21:50:23  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/33e7dee40f7024c9_0... OK
+2023-06-10 21:50:23  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/346ba54977922dde_0... OK
+2023-06-10 21:50:24  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/35bc2bef60a4c9b6_0... OK
+2023-06-10 21:50:24  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/36c70401a1351ea6_0... OK
+2023-06-10 21:50:24  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/36de081f14013615_0... OK
+2023-06-10 21:50:24  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/373ba88f68a74c20_0... OK
+2023-06-10 21:50:24  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/3804ac0efe04121c_0... OK
+2023-06-10 21:50:24  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/388bf30db8393a0d_0... OK
+2023-06-10 21:50:24  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/38fe7d133e95432d_0... OK
+2023-06-10 21:50:24  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/3b938a147a0e3cce_0... OK
+2023-06-10 21:50:24  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/3be8f3ba346e8356_0... OK
+2023-06-10 21:50:24  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/3cc81da678951d4a_0... OK
+2023-06-10 21:50:24  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/3cef0438e054df4b_0... OK
+2023-06-10 21:50:24  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/3d2d9137d8e2326d_0... OK
+2023-06-10 21:50:24  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/3d9e5dcee7dbe601_0... OK
+2023-06-10 21:50:24  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/3e3c3905fa7d731e_0... OK
+2023-06-10 21:50:24  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/3f08390a2a9045e7_0... OK
+2023-06-10 21:50:24  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/4029afbdeff0154f_0... OK
+2023-06-10 21:50:24  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/402e812fbfdbeae1_0... OK
+2023-06-10 21:50:24  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/409f02843ea6bce3_0... OK
+2023-06-10 21:50:24  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/414b88078fa55d30_0... OK
+2023-06-10 21:50:24  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/42cc5e50e0c84703_0... OK
+2023-06-10 21:50:24  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/43a8389d3e4a39eb_0... OK
+2023-06-10 21:50:25  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/44b1e8c9a2ed2367_0... OK
+2023-06-10 21:50:25  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/4515c28143189ac9_0... OK
+2023-06-10 21:50:25  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/454c5d24ba6402e2_0... OK
+2023-06-10 21:50:25  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/46918f7a725c4999_0... OK
+2023-06-10 21:50:25  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/46a3d75e2fa27e7d_0... OK
+2023-06-10 21:50:25  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/48df9e4e53c68d4e_0... OK
+2023-06-10 21:50:25  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/4acd102d84db4565_0... OK
+2023-06-10 21:50:25  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/4b30d86fb9d95d13_0... OK
+2023-06-10 21:50:25  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/4bc93e310d8a75ec_0... OK
+2023-06-10 21:50:25  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/4c4066986f05880b_0... OK
+2023-06-10 21:50:25  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/4d83fdab598d6253_0... OK
+2023-06-10 21:50:25  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/51e6c21db706d18c_0... OK
+2023-06-10 21:50:25  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/52e2de05e443d072_0... OK
+2023-06-10 21:50:25  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/530b7332a481c4e5_0... OK
+2023-06-10 21:50:25  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/545726f04f662004_0... OK
+2023-06-10 21:50:25  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/56728ffa07fbd8f4_0... OK
+2023-06-10 21:50:25  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/56f6ed5a44e53cf8_0... OK
+2023-06-10 21:50:25  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/58fe28c1fe567de7_0... OK
+2023-06-10 21:50:25  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/595c8609bf5ca1f8_0... OK
+2023-06-10 21:50:25  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/5a54e98bd2b7a061_0... OK
+2023-06-10 21:50:25  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/5bfb77298c836991_0... OK
+2023-06-10 21:50:25  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/5d22be50a5cee066_0... OK
+2023-06-10 21:50:26  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/5dbd799d3ca54810_0... OK
+2023-06-10 21:50:26  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/5ead3cd789f07831_0... OK
+2023-06-10 21:50:26  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/5ee2e37940a1706c_0... OK
+2023-06-10 21:50:26  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/5f1f77c80d766af6_0... OK
+2023-06-10 21:50:26  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/5f6b780a347d71f5_0... OK
+2023-06-10 21:50:26  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/6019bdceae369189_0... OK
+2023-06-10 21:50:26  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/61f0a93ce26c53da_0... OK
+2023-06-10 21:50:26  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/657d37c7e3700168_0... OK
+2023-06-10 21:50:26  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/65f04b0f2432ba67_0... OK
+2023-06-10 21:50:26  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/67f750e5a2f29d26_0... OK
+2023-06-10 21:50:26  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/680d675c9bd62ef8_0... OK
+2023-06-10 21:50:26  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/68af1ff05498d1ca_0... OK
+2023-06-10 21:50:26  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/6a089a45b7db21c0_0... OK
+2023-06-10 21:50:26  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/6bb5b1b8139dc70f_0... OK
+2023-06-10 21:50:26  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/6bc654db33fcd188_0... OK
+2023-06-10 21:50:26  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/6bc98a73bd6320bb_0... OK
+2023-06-10 21:50:26  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/6c058e6bde6e3e5d_0... OK
+2023-06-10 21:50:26  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/6c6ab736e5bff521_0... OK
+2023-06-10 21:50:26  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/6c8054e4d3833f73_0... OK
+2023-06-10 21:50:26  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/6eb102d377848d51_0... OK
+2023-06-10 21:50:27  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/70ac4b25f5935ce9_0... OK
+2023-06-10 21:50:27  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/71e4dc62ca429017_0... OK
+2023-06-10 21:50:27  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/72571ea0d494a601_0... OK
+2023-06-10 21:50:27  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/728294b71e31883c_0... OK
+2023-06-10 21:50:27  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/730330a6888a3b1e_0... OK
+2023-06-10 21:50:27  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/73c0dad573403006_0... OK
+2023-06-10 21:50:27  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/77e62b3609589ba0_0... OK
+2023-06-10 21:50:27  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/78ec9d2a7bc7f124_0... OK
+2023-06-10 21:50:27  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/79af2fe1f1947b69_0... OK
+2023-06-10 21:50:27  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/7a620e30f36d94fa_0... OK
+2023-06-10 21:50:27  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/7a8280e2344f73d0_0... OK
+2023-06-10 21:50:27  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/7a96d76133086f8c_0... OK
+2023-06-10 21:50:27  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/7ab2b8b976e67b05_0... OK
+2023-06-10 21:50:27  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/7b2486c1ebb4ef44_0... OK
+2023-06-10 21:50:27  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/7c0117181111ad89_0... OK
+2023-06-10 21:50:27  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/8011ec95adc5d258_0... OK
+2023-06-10 21:50:27  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/81906529a8592ada_0... OK
+2023-06-10 21:50:27  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/82e59946b09dba5d_0... OK
+2023-06-10 21:50:27  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/82f9f929118b294d_0... OK
+2023-06-10 21:50:27  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/830fb37665811547_0... OK
+2023-06-10 21:50:27  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/8530539365c3306c_0... OK
+2023-06-10 21:50:27  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/8564ce3b70b2e088_0... OK
+2023-06-10 21:50:28  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/8730a3ee0d4796fe_0... OK
+2023-06-10 21:50:28  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/876975afff49aa93_0... OK
+2023-06-10 21:50:28  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/8943759ed30fd007_0... OK
+2023-06-10 21:50:28  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/895af7db2a7e4621_0... OK
+2023-06-10 21:50:28  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/89727c3723d346bc_0... OK
+2023-06-10 21:50:28  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/8a260969bb378cb2_0... OK
+2023-06-10 21:50:28  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/8a4a77693ab09abc_0... OK
+2023-06-10 21:50:28  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/8bfa5a3173f7ca69_0... OK
+2023-06-10 21:50:28  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/8c00c313ed58143c_0... OK
+2023-06-10 21:50:28  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/8c5b4c940efe737c_0... OK
+2023-06-10 21:50:28  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/8ce3c8c31e1b7876_0... OK
+2023-06-10 21:50:28  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/8e0581ed8a97fc5e_0... OK
+2023-06-10 21:50:28  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/8e20369b7a442397_0... OK
+2023-06-10 21:50:28  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/8f3100fd33872a52_0... OK
+2023-06-10 21:50:28  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/8fc9c8b8559be2c6_0... OK
+2023-06-10 21:50:28  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/9386622253905572_0... OK
+2023-06-10 21:50:28  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/93e3b77d2b3ebb5d_0... OK
+2023-06-10 21:50:28  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/93f15a3ac0f85405_0... OK
+2023-06-10 21:50:28  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/94e89d8996e1ba99_0... OK
+2023-06-10 21:50:28  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/95595e3eb79ad20f_0... OK
+2023-06-10 21:50:29  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/955d8b76cf58d7ce_0... OK
+2023-06-10 21:50:29  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/95cbca2e0c7f5097_0... OK
+2023-06-10 21:50:29  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/968f965ae93c4b81_0... OK
+2023-06-10 21:50:29  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/97d014fefc640ba1_0... OK
+2023-06-10 21:50:29  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/999b4b89239279bc_0... OK
+2023-06-10 21:50:29  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/9cc7cf123536bd97_0... OK
+2023-06-10 21:50:29  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/9d89a6c24db1fa70_0... OK
+2023-06-10 21:50:29  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/9e09ad252b3c80d3_0... OK
+2023-06-10 21:50:29  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/9e6d879938d14050_0... OK
+2023-06-10 21:50:29  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/a0b4049c9903519e_0... OK
+2023-06-10 21:50:29  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/a209e0aa3e375e78_0... OK
+2023-06-10 21:50:29  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/a44a9eddaf5968ee_0... OK
+2023-06-10 21:50:29  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/a8a737eb49205dc0_0... OK
+2023-06-10 21:50:29  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/a8aaeec05a758db8_0... OK
+2023-06-10 21:50:29  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/a931bf589e8f8ed1_0... OK
+2023-06-10 21:50:29  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/ac011f89972be512_0... OK
+2023-06-10 21:50:29  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/ad7721c72aefbb39_0... OK
+2023-06-10 21:50:29  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/ae0a458fc8f03a7f_0... OK
+2023-06-10 21:50:29  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/affbf961b3250f6f_0... OK
+2023-06-10 21:50:29  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/b0b6f80faba0fae6_0... OK
+2023-06-10 21:50:29  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/b189c455d5d453f3_0... OK
+2023-06-10 21:50:30  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/b2ab73ee6038efb4_0... OK
+2023-06-10 21:50:30  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/b332841c82613788_0... OK
+2023-06-10 21:50:30  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/b398518b4011535f_0... OK
+2023-06-10 21:50:30  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/b46738cf27a8ffeb_0... OK
+2023-06-10 21:50:30  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/b4ee94e50060fc91_0... OK
+2023-06-10 21:50:30  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/b5d2029653da6859_0... OK
+2023-06-10 21:50:30  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/b66ddd1276038546_0... OK
+2023-06-10 21:50:30  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/b6d3c3967ab6fe01_0... OK
+2023-06-10 21:50:30  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/b71602982667e917_0... OK
+2023-06-10 21:50:30  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/b8956f752126e9eb_0... OK
+2023-06-10 21:50:30  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/b8c3a37650c1ccd2_0... OK
+2023-06-10 21:50:30  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/b8e7b99a74bba8d7_0... OK
+2023-06-10 21:50:30  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/b9a870f809d5f40b_0... OK
+2023-06-10 21:50:30  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/babdf4fcc76b797a_0... OK
+2023-06-10 21:50:30  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/bad5d9f0305c5564_0... OK
+2023-06-10 21:50:30  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/bb2ba1c956405589_0... OK
+2023-06-10 21:50:30  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/bb4e7b784e278d5f_0... OK
+2023-06-10 21:50:30  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/bc11107e17baa41a_0... OK
+2023-06-10 21:50:30  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/be24e5b298007c2a_0... OK
+2023-06-10 21:50:31  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/beaf42bf08ed86c2_0... OK
+2023-06-10 21:50:31  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/bf33b625aa5e7df4_0... OK
+2023-06-10 21:50:31  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/c0cfbdf878f54e98_0... OK
+2023-06-10 21:50:31  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/c483dfab4d5876eb_0... OK
+2023-06-10 21:50:31  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/c6a7cd12c70818a9_0... OK
+2023-06-10 21:50:31  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/c76c05863d0762a7_0... OK
+2023-06-10 21:50:31  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/c8db534132ae9253_0... OK
+2023-06-10 21:50:31  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/ca193e4e6224f9c6_0... OK
+2023-06-10 21:50:31  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/cbab71244e270135_0... OK
+2023-06-10 21:50:31  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/cc6e3f7350b5f20f_0... OK
+2023-06-10 21:50:31  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/cea9fa886775a6f7_0... OK
+2023-06-10 21:50:31  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/ceaf3d6543efed51_0... OK
+2023-06-10 21:50:31  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/ced3be14b58a9ba3_0... OK
+2023-06-10 21:50:31  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/cf9fd66046160a68_0... OK
+2023-06-10 21:50:31  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/d1429f9f50cf525f_0... OK
+2023-06-10 21:50:31  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/d2609511c5f5666f_0... OK
+2023-06-10 21:50:31  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/d3696f6e9384a3a4_0... OK
+2023-06-10 21:50:31  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/d7b5dc98f9084a76_0... OK
+2023-06-10 21:50:31  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/d8a54d17cec6953d_0... OK
+2023-06-10 21:50:31  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/d8d2c006dcd31754_0... OK
+2023-06-10 21:50:31  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/da39e00021774eaa_0... OK
+2023-06-10 21:50:31  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/da94d66c6c936564_0... OK
+2023-06-10 21:50:32  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/db285c3f1d4ae4c9_0... OK
+2023-06-10 21:50:32  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/db4790dedf16f0ab_0... OK
+2023-06-10 21:50:32  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/dd07ad3966c826a4_0... OK
+2023-06-10 21:50:32  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/dd13dce0612038d9_0... OK
+2023-06-10 21:50:32  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/ddc5779b3f0623d8_0... OK
+2023-06-10 21:50:32  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/de84a8135c1cf180_0... OK
+2023-06-10 21:50:32  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/deac6afa945d26bb_0... OK
+2023-06-10 21:50:32  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/df2b79afc3c8dd19_0... OK
+2023-06-10 21:50:32  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/e003b4ba07f3ee8d_0... OK
+2023-06-10 21:50:32  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/e052e340c6cc3a49_0... OK
+2023-06-10 21:50:32  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/e25bb2d11a395cb7_0... OK
+2023-06-10 21:50:32  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/e2ed5900481caa5e_0... OK
+2023-06-10 21:50:32  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/e31ad6f543dfd57d_0... OK
+2023-06-10 21:50:32  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/e399b8fde0cf0b7a_0... OK
+2023-06-10 21:50:32  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/e403aefbcc65f6c3_0... OK
+2023-06-10 21:50:32  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/e48160869f54a4a9_0... OK
+2023-06-10 21:50:32  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/e5a3cd500bae83f8_0... OK
+2023-06-10 21:50:32  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/e7ac2038cdafb579_0... OK
+2023-06-10 21:50:32  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/e8f1f24f2e0da2dc_0... OK
+2023-06-10 21:50:33  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/e986c935d94e5738_0... OK
+2023-06-10 21:50:33  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/ec364e7aa344d46f_0... OK
+2023-06-10 21:50:33  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/ecad139310bc1061_0... OK
+2023-06-10 21:50:33  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/edd8e460f3464d2c_0... OK
+2023-06-10 21:50:33  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/ee8e550cf642edaf_0... OK
+2023-06-10 21:50:33  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/ef006f1f156026d7_0... OK
+2023-06-10 21:50:33  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/ef89759d2d50ed11_0... OK
+2023-06-10 21:50:33  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/f06f311f77ce2a1b_0... OK
+2023-06-10 21:50:33  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/f083be018fad0d0e_0... OK
+2023-06-10 21:50:33  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/f0cff2d69d2ddb3a_0... OK
+2023-06-10 21:50:33  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/f25608434f3e649a_0... OK
+2023-06-10 21:50:33  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/f30be10e162b46b6_0... OK
+2023-06-10 21:50:33  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/f33a5b17e8ef1943_0... OK
+2023-06-10 21:50:33  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/f5fe4387ad356421_0... OK
+2023-06-10 21:50:33  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/f605b0a79d4b548c_0... OK
+2023-06-10 21:50:33  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/f84bd08d245e4262_0... OK
+2023-06-10 21:50:33  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/f928e03f477c36ff_0... OK
+2023-06-10 21:50:33  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/fbf7ad96532b1f6f_0... OK
+2023-06-10 21:50:33  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/fd716e5574b3f383_0... OK
+2023-06-10 21:50:33  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/fdee1491d1190f0f_0... OK
+2023-06-10 21:50:33  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/fe19efefa2a988d8_0... OK
+2023-06-10 21:50:34  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/feebc7865aefb87a_0... OK
+2023-06-10 21:50:34  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/ff44f430ed29e5b5_0... OK
+2023-06-10 21:50:34  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/index... OK
+2023-06-10 21:50:34  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Cache_Data/index-dir/the-real-index... OK
+2023-06-10 21:50:34  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Code Cache/js/05c11fec709a6b38_0... OK
+2023-06-10 21:50:34  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Code Cache/js/1e290bd318326564_0... OK
+2023-06-10 21:50:34  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Code Cache/js/20d18170a2e28dd1_0... OK
+2023-06-10 21:50:34  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Code Cache/js/2a02cbd8ba9ba5ae_0... OK
+2023-06-10 21:50:34  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Code Cache/js/490c7e7b253c3991_0... OK
+2023-06-10 21:50:34  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Code Cache/js/51af84f4abedd7d6_0... OK
+2023-06-10 21:50:34  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Code Cache/js/654b22f0d734550c_0... OK
+2023-06-10 21:50:34  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Code Cache/js/7659751a5e121d9a_0... OK
+2023-06-10 21:50:34  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Code Cache/js/7bd89cccbb911a0a_0... OK
+2023-06-10 21:50:34  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Code Cache/js/7e30fea8ae51fdb6_0... OK
+2023-06-10 21:50:34  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Code Cache/js/987dcd888b79ee28_0... OK
+2023-06-10 21:50:34  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Code Cache/js/9b075e3ea4993fce_0... OK
+2023-06-10 21:50:34  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Code Cache/js/a1ce7e98deed90b4_0... OK
+2023-06-10 21:50:34  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Code Cache/js/ab5a09c4063eb7e8_0... OK
+2023-06-10 21:50:34  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Code Cache/js/afac2df22888f527_0... OK
+2023-06-10 21:50:34  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Code Cache/js/b0ca0019ff7b73c0_0... OK
+2023-06-10 21:50:34  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Code Cache/js/d577b8f6c73d78e9_0... OK
+2023-06-10 21:50:35  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Code Cache/js/e147abaff8166359_0... OK
+2023-06-10 21:50:35  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Code Cache/js/eb92b084d93a704b_0... OK
+2023-06-10 21:50:35  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Code Cache/js/ec084ca2b1e0cb35_0... OK
+2023-06-10 21:50:35  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Code Cache/js/fcd0c6933b507349_0... OK
+2023-06-10 21:50:35  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Code Cache/js/index... OK
+2023-06-10 21:50:35  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Code Cache/js/index-dir/the-real-index... OK
+2023-06-10 21:50:35  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Code Cache/wasm/index... OK
+2023-06-10 21:50:35  Reading file: /com.myfitnesspal.android/live_data/cache/webview_com.myfitnesspal.android/Default/HTTP Cache/Code Cache/wasm/index-dir/the-real-index... OK
+2023-06-10 21:50:35  Reading file: /com.myfitnesspal.android/live_data/databases/86obs62h... OK
+2023-06-10 21:50:35  Reading file: /com.myfitnesspal.android/live_data/databases/86obs62h-shm... OK
+2023-06-10 21:50:35  Reading file: /com.myfitnesspal.android/live_data/databases/86obs62h-wal... OK
+2023-06-10 21:50:35  Reading file: /com.myfitnesspal.android/live_data/databases/com.amplitude.api... OK
+2023-06-10 21:50:35  Reading file: /com.myfitnesspal.android/live_data/databases/com.amplitude.api-journal... OK
+2023-06-10 21:50:35  Reading file: /com.myfitnesspal.android/live_data/databases/com.google.android.datatransport.events... OK
+2023-06-10 21:50:35  Reading file: /com.myfitnesspal.android/live_data/databases/com.google.android.datatransport.events-journal... OK
+2023-06-10 21:50:35  Reading file: /com.myfitnesspal.android/live_data/databases/fasting.db... OK
+2023-06-10 21:50:35  Reading file: /com.myfitnesspal.android/live_data/databases/fasting.db-shm... OK
+2023-06-10 21:50:35  Reading file: /com.myfitnesspal.android/live_data/databases/fasting.db-wal... OK
+2023-06-10 21:50:35  Reading file: /com.myfitnesspal.android/live_data/databases/google_analytics_v4.db... OK
+2023-06-10 21:50:35  Reading file: /com.myfitnesspal.android/live_data/databases/google_analytics_v4.db-journal... OK
+2023-06-10 21:50:35  Reading file: /com.myfitnesspal.android/live_data/databases/google_app_measurement_local.db... OK
+2023-06-10 21:50:35  Reading file: /com.myfitnesspal.android/live_data/databases/google_app_measurement_local.db-journal... OK
+2023-06-10 21:50:35  Reading file: /com.myfitnesspal.android/live_data/databases/io-uacf-client-events.db... OK
+2023-06-10 21:50:36  Reading file: /com.myfitnesspal.android/live_data/databases/io-uacf-client-events.db-journal... OK
+2023-06-10 21:50:36  Reading file: /com.myfitnesspal.android/live_data/databases/mfpfit.db... OK
+2023-06-10 21:50:36  Reading file: /com.myfitnesspal.android/live_data/databases/mfpfit.db-journal... OK
+2023-06-10 21:50:36  Reading file: /com.myfitnesspal.android/live_data/databases/myfitnesspal.db... OK
+2023-06-10 21:50:36  Reading file: /com.myfitnesspal.android/live_data/databases/myfitnesspal.db-journal... OK
+2023-06-10 21:50:36  Reading file: /com.myfitnesspal.android/live_data/databases/notification-inbox.db... OK
+2023-06-10 21:50:36  Reading file: /com.myfitnesspal.android/live_data/databases/notification-inbox.db-journal... OK
+2023-06-10 21:50:36  Reading file: /com.myfitnesspal.android/live_data/databases/stock_data.db... OK
+2023-06-10 21:50:36  Reading file: /com.myfitnesspal.android/live_data/databases/stock_data.db-journal... OK
+2023-06-10 21:50:36  Reading file: /com.myfitnesspal.android/live_data/databases/subscriptions.db... OK
+2023-06-10 21:50:36  Reading file: /com.myfitnesspal.android/live_data/databases/subscriptions.db-journal... OK
+2023-06-10 21:50:36  Reading file: /com.myfitnesspal.android/live_data/files/AppEventsLogger.persistedevents... OK
+2023-06-10 21:50:36  Reading file: /com.myfitnesspal.android/live_data/files/PersistedInstallation.W0RFRkFVTFRd+MTo1MTMwMDc4ODc0Mzc6YW5kcm9pZDoyY2MzNTE5ZGViM2U1ZjBk.json... OK
+2023-06-10 21:50:36  Reading file: /com.myfitnesspal.android/live_data/files/frc_1:513007887437:android:2cc3519deb3e5f0d_fireperf_activate.json... OK
+2023-06-10 21:50:36  Reading file: /com.myfitnesspal.android/live_data/files/gaClientId... OK
+2023-06-10 21:50:36  Reading file: /com.myfitnesspal.android/live_data/files/generatefid.lock... OK
+2023-06-10 21:50:36  Reading file: /com.myfitnesspal.android/live_data/files/profileinstaller_profileWrittenFor_lastUpdateTime.dat... OK
+2023-06-10 21:50:36  Reading file: /com.myfitnesspal.android/live_data/files/.com.google.firebase.crashlytics.files.v2:com.myfitnesspal.android/com.crashlytics.settings.json... OK
+2023-06-10 21:50:36  Reading file: /com.myfitnesspal.android/live_data/files/.com.google.firebase.crashlytics.files.v2:com.myfitnesspal.android/open-sessions/64854E73031400014D8BB40291182D8D/event0000000000... OK
+2023-06-10 21:50:36  Reading file: /com.myfitnesspal.android/live_data/files/.com.google.firebase.crashlytics.files.v2:com.myfitnesspal.android/open-sessions/64854E73031400014D8BB40291182D8D/event0000000001... OK
+2023-06-10 21:50:36  Reading file: /com.myfitnesspal.android/live_data/files/.com.google.firebase.crashlytics.files.v2:com.myfitnesspal.android/open-sessions/64854E73031400014D8BB40291182D8D/event0000000002... OK
+2023-06-10 21:50:37  Reading file: /com.myfitnesspal.android/live_data/files/.com.google.firebase.crashlytics.files.v2:com.myfitnesspal.android/open-sessions/64854E73031400014D8BB40291182D8D/keys... OK
+2023-06-10 21:50:37  Reading file: /com.myfitnesspal.android/live_data/files/.com.google.firebase.crashlytics.files.v2:com.myfitnesspal.android/open-sessions/64854E73031400014D8BB40291182D8D/report... OK
+2023-06-10 21:50:37  Reading file: /com.myfitnesspal.android/live_data/files/.com.google.firebase.crashlytics.files.v2:com.myfitnesspal.android/open-sessions/64854E73031400014D8BB40291182D8D/start-time... OK
+2023-06-10 21:50:37  Reading file: /com.myfitnesspal.android/live_data/files/.com.google.firebase.crashlytics.files.v2:com.myfitnesspal.android/open-sessions/64854E73031400014D8BB40291182D8D/user-data... OK
+2023-06-10 21:50:37  Reading file: /com.myfitnesspal.android/live_data/files/.com.google.firebase.crashlytics.files.v2:com.myfitnesspal.android/open-sessions/64854E73031400014D8BB40291182D8D/userlog... OK
+2023-06-10 21:50:37  Reading file: /com.myfitnesspal.android/live_data/files/.payment_logs/mfp-log-20230505-034603.txt... OK
+2023-06-10 21:50:37  Reading file: /com.myfitnesspal.android/live_data/files/config/aps_mobile_client_config.json... OK
+2023-06-10 21:50:37  Reading file: /com.myfitnesspal.android/live_data/no_backup/androidx.work.workdb... OK
+2023-06-10 21:50:37  Reading file: /com.myfitnesspal.android/live_data/no_backup/androidx.work.workdb-shm... OK
+2023-06-10 21:50:37  Reading file: /com.myfitnesspal.android/live_data/no_backup/androidx.work.workdb-wal... OK
+2023-06-10 21:50:37  Reading file: /com.myfitnesspal.android/live_data/no_backup/com.google.android.gms.appid-no-backup... OK
+2023-06-10 21:50:37  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/AnalyticsSessionTracker.xml... OK
+2023-06-10 21:50:37  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/AwOriginVisitLoggerPrefs.xml... OK
+2023-06-10 21:50:37  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/BNC_Server_Request_Queue.xml... OK
+2023-06-10 21:50:37  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/ConfigurationSharedPrefs.xml... OK
+2023-06-10 21:50:37  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/FirebaseHeartBeatW0RFRkFVTFRd+MTo1MTMwMDc4ODc0Mzc6YW5kcm9pZDoyY2MzNTE5ZGViM2U1ZjBk.xml... OK
+2023-06-10 21:50:37  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/FirebasePerfSharedPrefs.xml... OK
+2023-06-10 21:50:37  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/GYM_WORKOUTS_PRIVACY_COACHMARK_PREFS.xml... OK
+2023-06-10 21:50:37  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/MYFITNESSPAL.xml... OK
+2023-06-10 21:50:37  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/WebViewChromiumPrefs.xml... OK
+2023-06-10 21:50:37  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/_calories_widget_cache.xml... OK
+2023-06-10 21:50:37  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/achievement-store.xml... OK
+2023-06-10 21:50:37  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/admob.xml... OK
+2023-06-10 21:50:37  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/ads-settings.xml... OK
+2023-06-10 21:50:37  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/analytics-android-oIKRqI8KWOgTvDgIcfrGmXHbgL9Glsoh.xml... OK
+2023-06-10 21:50:38  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/app-settings.xml... OK
+2023-06-10 21:50:38  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/branch_referral_shared_pref.xml... OK
+2023-06-10 21:50:38  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/cache-store.xml... OK
+2023-06-10 21:50:38  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.amazon.device.ads.dtb.preferences.xml... OK
+2023-06-10 21:50:38  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.appboy.device.xml... OK
+2023-06-10 21:50:38  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.appboy.offline.storagemap.xml... OK
+2023-06-10 21:50:38  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.appboy.override.configuration.cache.xml... OK
+2023-06-10 21:50:38  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.appboy.storage.appboy_event_storage.c2d87193960615a585860048ef556543.34a2ae5f-d073-429d-bfd4-70aa580ee91f.xml... OK
+2023-06-10 21:50:38  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.appboy.storage.appboy_event_storage.d41d8cd98f00b204e9800998ecf8427e.34a2ae5f-d073-429d-bfd4-70aa580ee91f.xml... OK
+2023-06-10 21:50:38  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.appboy.storage.content_cards_storage_provider.cards.c2d87193960615a585860048ef556543.34a2ae5f-d073-429d-bfd4-70aa580ee91f.xml... OK
+2023-06-10 21:50:38  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.appboy.storage.content_cards_storage_provider.cards.d41d8cd98f00b204e9800998ecf8427e.34a2ae5f-d073-429d-bfd4-70aa580ee91f.xml... OK
+2023-06-10 21:50:38  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.appboy.storage.content_cards_storage_provider.metadata.c2d87193960615a585860048ef556543.34a2ae5f-d073-429d-bfd4-70aa580ee91f.xml... OK
+2023-06-10 21:50:38  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.appboy.storage.content_cards_storage_provider.metadata.d41d8cd98f00b204e9800998ecf8427e.34a2ae5f-d073-429d-bfd4-70aa580ee91f.xml... OK
+2023-06-10 21:50:38  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.appboy.storage.device_cache.v3.37a6259cc0c1dae299a7866489dff0bd.xml... OK
+2023-06-10 21:50:38  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.appboy.storage.device_cache.v3.c2d87193960615a585860048ef556543.34a2ae5f-d073-429d-bfd4-70aa580ee91f.xml... OK
+2023-06-10 21:50:38  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.appboy.storage.feedstorageprovider.c2d87193960615a585860048ef556543.xml... OK
+2023-06-10 21:50:38  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.appboy.storage.feedstorageprovider.d41d8cd98f00b204e9800998ecf8427e.xml... OK
+2023-06-10 21:50:38  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.appboy.storage.serverconfigstorageprovider.34a2ae5f-d073-429d-bfd4-70aa580ee91f.xml... OK
+2023-06-10 21:50:38  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.appboy.storage.session_storage.c2d87193960615a585860048ef556543.34a2ae5f-d073-429d-bfd4-70aa580ee91f.xml... OK
+2023-06-10 21:50:38  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.appboy.storage.session_storage.d41d8cd98f00b204e9800998ecf8427e.34a2ae5f-d073-429d-bfd4-70aa580ee91f.xml... OK
+2023-06-10 21:50:38  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.appboy.storage.sessions.messaging_session.xml... OK
+2023-06-10 21:50:38  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.appboy.storage.triggers.actions.c2d87193960615a585860048ef556543.34a2ae5f-d073-429d-bfd4-70aa580ee91f.xml... OK
+2023-06-10 21:50:39  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.appboy.storage.triggers.actions.d41d8cd98f00b204e9800998ecf8427e.34a2ae5f-d073-429d-bfd4-70aa580ee91f.xml... OK
+2023-06-10 21:50:39  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.appboy.storage.triggers.local_assets.34a2ae5f-d073-429d-bfd4-70aa580ee91f.xml... OK
+2023-06-10 21:50:39  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.appboy.storage.triggers.re_eligibility.c2d87193960615a585860048ef556543.34a2ae5f-d073-429d-bfd4-70aa580ee91f.xml... OK
+2023-06-10 21:50:39  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.appboy.storage.triggers.re_eligibility.d41d8cd98f00b204e9800998ecf8427e.34a2ae5f-d073-429d-bfd4-70aa580ee91f.xml... OK
+2023-06-10 21:50:39  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.appboy.storage.user_cache.v3.37a6259cc0c1dae299a7866489dff0bd.xml... OK
+2023-06-10 21:50:39  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.appboy.storage.user_cache.v3.c2d87193960615a585860048ef556543.34a2ae5f-d073-429d-bfd4-70aa580ee91f.xml... OK
+2023-06-10 21:50:39  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.appboy.support.stringutils.cachefilesuffix.xml... OK
+2023-06-10 21:50:39  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.braze.push_registration.xml... OK
+2023-06-10 21:50:39  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.braze.storage.user_cache.push_token_store.37a6259cc0c1dae299a7866489dff0bd.xml... OK
+2023-06-10 21:50:39  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.braze.storage.user_cache.push_token_store.c2d87193960615a585860048ef556543.34a2ae5f-d073-429d-bfd4-70aa580ee91f.xml... OK
+2023-06-10 21:50:39  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.facebook.internal.MODEL_STORE.xml... OK
+2023-06-10 21:50:39  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.facebook.internal.iap.PRODUCT_DETAILS.xml... OK
+2023-06-10 21:50:39  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml... OK
+2023-06-10 21:50:39  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml... OK
+2023-06-10 21:50:39  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml... OK
+2023-06-10 21:50:39  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.facebook.sdk.appEventPreferences.xml... OK
+2023-06-10 21:50:39  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.facebook.sdk.attributionTracking.xml... OK
+2023-06-10 21:50:39  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.google.android.gms.analytics.prefs.xml... OK
+2023-06-10 21:50:39  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.google.android.gms.appid.xml... OK
+2023-06-10 21:50:39  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.google.android.gms.measurement.prefs.xml... OK
+2023-06-10 21:50:39  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.google.firebase.crashlytics.xml... OK
+2023-06-10 21:50:39  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.google.firebase.remoteconfig_legacy_settings.xml... OK
+2023-06-10 21:50:39  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/com.myfitnesspal.android_preferences.xml... OK
+2023-06-10 21:50:40  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/device_id.xml.xml... OK
+2023-06-10 21:50:40  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/fasting_shared_preferences_.xml... OK
+2023-06-10 21:50:40  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/fasting_shared_preferences_199183147298797.xml... OK
+2023-06-10 21:50:40  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/frc_1:513007887437:android:2cc3519deb3e5f0d_fireperf_settings.xml... OK
+2023-06-10 21:50:40  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/globalPreferences.xml... OK
+2023-06-10 21:50:40  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/global_settings_preferences.xml... OK
+2023-06-10 21:50:40  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/google_fit_store.xml... OK
+2023-06-10 21:50:40  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/google_health_shared_preferences.xml... OK
+2023-06-10 21:50:40  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/login-shared-preferences.xml... OK
+2023-06-10 21:50:40  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/mfp-analytics-store.xml... OK
+2023-06-10 21:50:40  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/news-feed-cache-store.xml... OK
+2023-06-10 21:50:40  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/notification-inbox-settings.xml... OK
+2023-06-10 21:50:40  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/nutrition-graph-preference.xml... OK
+2023-06-10 21:50:40  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/paid_storage_sp.xml... OK
+2023-06-10 21:50:40  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/pcvmspf.xml... OK
+2023-06-10 21:50:40  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/product_service_preferences.xml... OK
+2023-06-10 21:50:40  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/settings_preferences.xml... OK
+2023-06-10 21:50:40  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/shealth_client_store.xml... OK
+2023-06-10 21:50:40  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/signup-shared-preferences.xml... OK
+2023-06-10 21:50:40  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/sync-v2-settings.xml... OK
+2023-06-10 21:50:40  Reading file: /com.myfitnesspal.android/live_data/shared_prefs/video_player_prefs.xml... OK
+2023-06-10 21:50:40  Reading file: /com.myfitnesspal.android/live_user_data/code_cache/com.android.opengl.shaders_cache... OK
+2023-06-10 21:50:41  Reading file: /com.myfitnesspal.android/live_user_data/code_cache/com.android.skia.shaders_cache... OK
+2023-06-10 21:50:41  Reading file: /com.runtastic.android/live_data/app_webview/BrowserMetrics-spare.pma... OK
+2023-06-10 21:50:41  Reading file: /com.runtastic.android/live_data/app_webview/pref_store... OK
+2023-06-10 21:50:41  Reading file: /com.runtastic.android/live_data/app_webview/variations_seed... OK
+2023-06-10 21:50:41  Reading file: /com.runtastic.android/live_data/app_webview/variations_seed_new... OK
+2023-06-10 21:50:41  Reading file: /com.runtastic.android/live_data/app_webview/variations_stamp... OK
+2023-06-10 21:50:41  Reading file: /com.runtastic.android/live_data/app_webview/webview_data.lock... OK
+2023-06-10 21:50:41  Reading file: /com.runtastic.android/live_data/app_webview/Default/Web Data... OK
+2023-06-10 21:50:41  Reading file: /com.runtastic.android/live_data/app_webview/Default/Web Data-journal... OK
+2023-06-10 21:50:41  Reading file: /com.runtastic.android/live_data/app_webview/Default/Local Storage/leveldb/000003.log... OK
+2023-06-10 21:50:41  Reading file: /com.runtastic.android/live_data/app_webview/Default/Local Storage/leveldb/CURRENT... OK
+2023-06-10 21:50:41  Reading file: /com.runtastic.android/live_data/app_webview/Default/Local Storage/leveldb/LOCK... OK
+2023-06-10 21:50:41  Reading file: /com.runtastic.android/live_data/app_webview/Default/Local Storage/leveldb/LOG... OK
+2023-06-10 21:50:41  Reading file: /com.runtastic.android/live_data/app_webview/Default/Local Storage/leveldb/MANIFEST-000001... OK
+2023-06-10 21:50:41  Reading file: /com.runtastic.android/live_data/cache/WebView/font_unique_name_table.pb... OK
+2023-06-10 21:50:41  Reading file: /com.runtastic.android/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/index... OK
+2023-06-10 21:50:41  Reading file: /com.runtastic.android/live_data/cache/WebView/Default/HTTP Cache/Code Cache/js/index-dir/the-real-index... OK
+2023-06-10 21:50:41  Reading file: /com.runtastic.android/live_data/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index... OK
+2023-06-10 21:50:41  Reading file: /com.runtastic.android/live_data/cache/WebView/Default/HTTP Cache/Code Cache/wasm/index-dir/the-real-index... OK
+2023-06-10 21:50:41  Reading file: /com.runtastic.android/live_data/cache/image_manager_disk_cache/4958936c8d3750a3b8925868fc66adab78b4e6a67d518282cd5f1441f47e7483.0... OK
+2023-06-10 21:50:41  Reading file: /com.runtastic.android/live_data/cache/image_manager_disk_cache/5d1b70d4a3178c2cafbec7441b7664315d6921e13e8b9e91d2aae59be1b7ae4e.0... OK
+2023-06-10 21:50:41  Reading file: /com.runtastic.android/live_data/cache/image_manager_disk_cache/5d1c962bf09706ad2ce4b596f8ad2c48c300be21e4902e4d914bd6421cb11084.0... OK
+2023-06-10 21:50:42  Reading file: /com.runtastic.android/live_data/cache/image_manager_disk_cache/7dec03ae092cf8b0fed0f82f180ae78e2d1173bde3d624e259bd9fa2bd80844d.0... OK
+2023-06-10 21:50:42  Reading file: /com.runtastic.android/live_data/cache/image_manager_disk_cache/8e14f5de4550b57ffabfaaa76e8d1ab4bc1f7a312cc0a12918bf9c3f23a2b60f.0... OK
+2023-06-10 21:50:42  Reading file: /com.runtastic.android/live_data/cache/image_manager_disk_cache/98d759d0a9baa26619b632adff96c6f8e242086d178d929f983818256cff5cec.0... OK
+2023-06-10 21:50:42  Reading file: /com.runtastic.android/live_data/cache/image_manager_disk_cache/a5b532082967f0af0b9aa49e68ad5308fbd7350c629f16eab0110c38b2e41235.0... OK
+2023-06-10 21:50:42  Reading file: /com.runtastic.android/live_data/cache/image_manager_disk_cache/journal... OK
+2023-06-10 21:50:42  Reading file: /com.runtastic.android/live_data/cache/zendesk/zendesk_media_cache/journal... OK
+2023-06-10 21:50:42  Reading file: /com.runtastic.android/live_data/databases/EmarsysCore.db... OK
+2023-06-10 21:50:42  Reading file: /com.runtastic.android/live_data/databases/EmarsysCore.db-journal... OK
+2023-06-10 21:50:42  Reading file: /com.runtastic.android/live_data/databases/abilities... OK
+2023-06-10 21:50:42  Reading file: /com.runtastic.android/live_data/databases/abilities-journal... OK
+2023-06-10 21:50:42  Reading file: /com.runtastic.android/live_data/databases/com.google.android.datatransport.events... OK
+2023-06-10 21:50:42  Reading file: /com.runtastic.android/live_data/databases/com.google.android.datatransport.events-journal... OK
+2023-06-10 21:50:42  Reading file: /com.runtastic.android/live_data/databases/creators_club.db... OK
+2023-06-10 21:50:42  Reading file: /com.runtastic.android/live_data/databases/creators_club.db-journal... OK
+2023-06-10 21:50:42  Reading file: /com.runtastic.android/live_data/databases/db... OK
+2023-06-10 21:50:42  Reading file: /com.runtastic.android/live_data/databases/db-journal... OK
+2023-06-10 21:50:42  Reading file: /com.runtastic.android/live_data/databases/geoInfo.db... OK
+2023-06-10 21:50:42  Reading file: /com.runtastic.android/live_data/databases/geoInfo.db-journal... OK
+2023-06-10 21:50:42  Reading file: /com.runtastic.android/live_data/databases/goals... OK
+2023-06-10 21:50:42  Reading file: /com.runtastic.android/live_data/databases/goals-journal... OK
+2023-06-10 21:50:42  Reading file: /com.runtastic.android/live_data/databases/google_app_measurement_local.db... OK
+2023-06-10 21:50:42  Reading file: /com.runtastic.android/live_data/databases/google_app_measurement_local.db-journal... OK
+2023-06-10 21:50:42  Reading file: /com.runtastic.android/live_data/databases/partner_accounts.db... OK
+2023-06-10 21:50:43  Reading file: /com.runtastic.android/live_data/databases/partner_accounts.db-journal... OK
+2023-06-10 21:50:43  Reading file: /com.runtastic.android/live_data/databases/sport-activities... OK
+2023-06-10 21:50:43  Reading file: /com.runtastic.android/live_data/databases/sport-activities-journal... OK
+2023-06-10 21:50:43  Reading file: /com.runtastic.android/live_data/databases/user.db... OK
+2023-06-10 21:50:43  Reading file: /com.runtastic.android/live_data/databases/user.db-journal... OK
+2023-06-10 21:50:43  Reading file: /com.runtastic.android/live_data/files/AdjustAttribution... OK
+2023-06-10 21:50:43  Reading file: /com.runtastic.android/live_data/files/AdjustIoActivityState... OK
+2023-06-10 21:50:43  Reading file: /com.runtastic.android/live_data/files/AdjustIoPackageQueue... OK
+2023-06-10 21:50:43  Reading file: /com.runtastic.android/live_data/files/DATA_ServerControlledParametersManager.data.com.runtastic.android... OK
+2023-06-10 21:50:43  Reading file: /com.runtastic.android/live_data/files/DATA_disk_creation_time_its... OK
+2023-06-10 21:50:43  Reading file: /com.runtastic.android/live_data/files/DATA_disk_creation_time_its_ter... OK
+2023-06-10 21:50:43  Reading file: /com.runtastic.android/live_data/files/DATA_disk_creation_time_vts_com.runtastic.android_default... OK
+2023-06-10 21:50:43  Reading file: /com.runtastic.android/live_data/files/DATA_disk_creation_time_vts_inaka_com.runtastic.android_default... OK
+2023-06-10 21:50:43  Reading file: /com.runtastic.android/live_data/files/DATA_disk_creation_time_vts_labl_com.runtastic.android_default... OK
+2023-06-10 21:50:43  Reading file: /com.runtastic.android/live_data/files/DATA_disk_creation_time_vts_no_pois_com.runtastic.android_default... OK
+2023-06-10 21:50:43  Reading file: /com.runtastic.android/live_data/files/PersistedInstallation.W0RFRkFVTFRd+MToxOTA1NjkzOTk5MDY6YW5kcm9pZDplNjhiMGFjZmFkYzBlMDVh.json... OK
+2023-06-10 21:50:43  Reading file: /com.runtastic.android/live_data/files/ZoomTables.data.v1... OK
+2023-06-10 21:50:43  Reading file: /com.runtastic.android/live_data/files/_m_t... OK
+2023-06-10 21:50:43  Reading file: /com.runtastic.android/live_data/files/com.google.android.gms.maps._m_u... OK
+2023-06-10 21:50:43  Reading file: /com.runtastic.android/live_data/files/frc_1:190569399906:android:e68b0acfadc0e05a_firebase_activate.json... OK
+2023-06-10 21:50:43  Reading file: /com.runtastic.android/live_data/files/generatefid.lock... OK
+2023-06-10 21:50:43  Reading file: /com.runtastic.android/live_data/files/nr_installation... OK
+2023-06-10 21:50:44  Reading file: /com.runtastic.android/live_data/files/profileinstaller_profileWrittenFor_lastUpdateTime.dat... OK
+2023-06-10 21:50:44  Reading file: /com.runtastic.android/live_data/files/datastore/hdc_request_cache.preferences_pb... OK
+2023-06-10 21:50:44  Reading file: /com.runtastic.android/live_data/files/datastore/partner_accounts_sync_cache.preferences_pb... OK
+2023-06-10 21:50:44  Reading file: /com.runtastic.android/live_data/files/datastore/tracking_settings.preferences_pb... OK
+2023-06-10 21:50:44  Reading file: /com.runtastic.android/live_data/files/logs/raw-gps/201546518/1-events.txt... OK
+2023-06-10 21:50:44  Reading file: /com.runtastic.android/live_data/files/logs/raw-gps/201546518/1-flp.csv... OK
+2023-06-10 21:50:44  Reading file: /com.runtastic.android/live_data/files/logs/raw-gps/201546518/1-gps.csv... OK
+2023-06-10 21:50:44  Reading file: /com.runtastic.android/live_data/files/phenotype/shared/com.google.android.gms.maps#com.runtastic.android.pb... OK
+2023-06-10 21:50:44  Reading file: /com.runtastic.android/live_data/no_backup/androidx.work.workdb... OK
+2023-06-10 21:50:44  Reading file: /com.runtastic.android/live_data/no_backup/androidx.work.workdb-shm... OK
+2023-06-10 21:50:44  Reading file: /com.runtastic.android/live_data/no_backup/androidx.work.workdb-wal... OK
+2023-06-10 21:50:44  Reading file: /com.runtastic.android/live_data/no_backup/com.google.android.gms.appid-no-backup... OK
+2023-06-10 21:50:44  Reading file: /com.runtastic.android/live_data/shared_prefs/CrmManager.xml... OK
+2023-06-10 21:50:44  Reading file: /com.runtastic.android/live_data/shared_prefs/FirebaseHeartBeatW0RFRkFVTFRd+MToxOTA1NjkzOTk5MDY6YW5kcm9pZDplNjhiMGFjZmFkYzBlMDVh.xml... OK
+2023-06-10 21:50:44  Reading file: /com.runtastic.android/live_data/shared_prefs/GeoMonitoringSharedPref.xml... OK
+2023-06-10 21:50:44  Reading file: /com.runtastic.android/live_data/shared_prefs/MapviewInitializerPreferences.xml... OK
+2023-06-10 21:50:44  Reading file: /com.runtastic.android/live_data/shared_prefs/NRAnalyticsAttributeStore.xml... OK
+2023-06-10 21:50:44  Reading file: /com.runtastic.android/live_data/shared_prefs/WebViewChromiumPrefs.xml... OK
+2023-06-10 21:50:44  Reading file: /com.runtastic.android/live_data/shared_prefs/adjust_preferences.xml... OK
+2023-06-10 21:50:44  Reading file: /com.runtastic.android/live_data/shared_prefs/com.facebook.internal.MODEL_STORE.xml... OK
+2023-06-10 21:50:44  Reading file: /com.runtastic.android/live_data/shared_prefs/com.facebook.internal.iap.PRODUCT_DETAILS.xml... OK
+2023-06-10 21:50:44  Reading file: /com.runtastic.android/live_data/shared_prefs/com.facebook.internal.preferences.APP_GATEKEEPERS.xml... OK
+2023-06-10 21:50:45  Reading file: /com.runtastic.android/live_data/shared_prefs/com.facebook.internal.preferences.APP_SETTINGS.xml... OK
+2023-06-10 21:50:45  Reading file: /com.runtastic.android/live_data/shared_prefs/com.facebook.sdk.USER_SETTINGS.xml... OK
+2023-06-10 21:50:45  Reading file: /com.runtastic.android/live_data/shared_prefs/com.facebook.sdk.appEventPreferences.xml... OK
+2023-06-10 21:50:45  Reading file: /com.runtastic.android/live_data/shared_prefs/com.facebook.sdk.attributionTracking.xml... OK
+2023-06-10 21:50:45  Reading file: /com.runtastic.android/live_data/shared_prefs/com.google.android.gms.appid.xml... OK
+2023-06-10 21:50:45  Reading file: /com.runtastic.android/live_data/shared_prefs/com.google.android.gms.measurement.prefs.xml... OK
+2023-06-10 21:50:45  Reading file: /com.runtastic.android/live_data/shared_prefs/com.google.android.gms.signin.xml... OK
+2023-06-10 21:50:45  Reading file: /com.runtastic.android/live_data/shared_prefs/com.google.firebase.messaging.xml... OK
+2023-06-10 21:50:45  Reading file: /com.runtastic.android/live_data/shared_prefs/com.google.maps.api.android.lib6.drd.PREFERENCES_FILE.xml... OK
+2023-06-10 21:50:45  Reading file: /com.runtastic.android/live_data/shared_prefs/com.newrelic.android.agent.v1_com.runtastic.android.xml... OK
+2023-06-10 21:50:45  Reading file: /com.runtastic.android/live_data/shared_prefs/com.runtastic.android_preferences.xml... OK
+2023-06-10 21:50:45  Reading file: /com.runtastic.android/live_data/shared_prefs/emarsys_secure_shared_preferences.xml... OK
+2023-06-10 21:50:45  Reading file: /com.runtastic.android/live_data/shared_prefs/frc_1:190569399906:android:e68b0acfadc0e05a_firebase_settings.xml... OK
+2023-06-10 21:50:45  Reading file: /com.runtastic.android/live_data/shared_prefs/goal_iteration_sync_store.xml... OK
+2023-06-10 21:50:45  Reading file: /com.runtastic.android/live_data/shared_prefs/goals_sync_store.xml... OK
+2023-06-10 21:50:45  Reading file: /com.runtastic.android/live_data/shared_prefs/inbox_shared_preferences.xml... OK
+2023-06-10 21:50:45  Reading file: /com.runtastic.android/live_data/shared_prefs/partner_accounts_sync_store.xml... OK
+2023-06-10 21:50:45  Reading file: /com.runtastic.android/live_data/shared_prefs/sport_activity_sync_store.xml... OK
+2023-06-10 21:50:45  Reading file: /com.runtastic.android/live_data/shared_prefs/tracking.xml... OK
+2023-06-10 21:50:45  Reading file: /com.runtastic.android/live_data/shared_prefs/zendesk_additional_sdk.xml... OK
+2023-06-10 21:50:45  Reading file: /com.runtastic.android/live_data/shared_prefs/zendesk_identity.xml... OK
+2023-06-10 21:50:46  Reading file: /com.runtastic.android/live_data/shared_prefs/zendesk_sdk.xml... OK
+2023-06-10 21:50:46  Reading file: /com.runtastic.android/live_data/shared_prefs/zendesk_settings.xml... OK
+2023-06-10 21:50:46  Reading file: /com.runtastic.android/live_user_data/code_cache/com.android.opengl.shaders_cache... OK
+2023-06-10 21:50:46  Reading file: /com.runtastic.android/live_user_data/code_cache/com.android.skia.shaders_cache... OK
+2023-06-10 21:50:46  Reading files... OK (1119 files succeeded, 0 files failed)
+2023-06-10 21:50:51  Reading backup file from device... OK (read 621 KB)
+2023-06-10 21:50:51  Parsing ADB backup...
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/_manifest... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_/testdata/map_cache.key... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/oat/arm64/Anonymous-DexFile@2653419650.vdex... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/oat/arm64/Anonymous-DexFile@2524438748.vdex... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/Default/Cookies... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/Default/Session Storage/LOCK... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/Default/Session Storage/000003.log... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/Default/Session Storage/MANIFEST-000001... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/Default/Session Storage/LOG... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/Default/Session Storage/CURRENT... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/Default/IndexedDB/https_id.asics.com_0.indexeddb.leveldb/LOG... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/Default/IndexedDB/https_id.asics.com_0.indexeddb.leveldb/CURRENT... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/Default/IndexedDB/https_id.asics.com_0.indexeddb.leveldb/MANIFEST-000001... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/Default/IndexedDB/https_id.asics.com_0.indexeddb.leveldb/LOCK... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/Default/IndexedDB/https_id.asics.com_0.indexeddb.leveldb/000004.log... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/Default/IndexedDB/https_id.asics.com_0.indexeddb.leveldb/000005.ldb... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/Default/Web Data... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/Default/QuotaManager... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/Default/databases/Databases.db... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/Default/databases/Databases.db-journal... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/Default/QuotaManager-journal... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/Default/Web Data-journal... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/Default/Cookies-journal... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/Default/GPUCache/7339bbfb859b7222_0... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/Default/GPUCache/f7a61717b05c6833_0... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/Default/GPUCache/index... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/Default/GPUCache/54c44fccbda5b159_0... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/Default/GPUCache/8f4be28194ce14cb_0... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/Default/GPUCache/index-dir/the-real-index... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/Default/GPUCache/8e636eccdf9495f4_0... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/variations_stamp... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/webview_data.lock... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/pref_store... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/r/app_webview/variations_seed_new... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/f/profileinstaller_profileWrittenFor_lastUpdateTime.dat... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/f/_m_t... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/f/DATA_ServerControlledParametersManager.data.v1.com.fitnesskeeper.runkeeper.pro... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/f/phenotype/shared/com.google.android.gms.maps#com.fitnesskeeper.runkeeper.pro.pb... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/f/PersistedInstallation.W0RFRkFVTFRd+MTo2NjI4MDQyODMwMjI6YW5kcm9pZDo4MWFjNmE4OWEzNWZiYTc0.json... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/f/frc_1:662804283022:android:81ac6a89a35fba74_firebase_defaults.json... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/f/.com.google.firebase.crashlytics.files.v2:com.fitnesskeeper.runkeeper.pro/com.crashlytics.settings.json... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/f/.com.google.firebase.crashlytics.files.v2:com.fitnesskeeper.runkeeper.pro/open-sessions/64855082020A000165795ECA4FAFA56A/user-data... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/f/.com.google.firebase.crashlytics.files.v2:com.fitnesskeeper.runkeeper.pro/open-sessions/64855082020A000165795ECA4FAFA56A/event0000000001... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/f/.com.google.firebase.crashlytics.files.v2:com.fitnesskeeper.runkeeper.pro/open-sessions/64855082020A000165795ECA4FAFA56A/event0000000000... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/f/.com.google.firebase.crashlytics.files.v2:com.fitnesskeeper.runkeeper.pro/open-sessions/64855082020A000165795ECA4FAFA56A/userlog... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/f/.com.google.firebase.crashlytics.files.v2:com.fitnesskeeper.runkeeper.pro/open-sessions/64855082020A000165795ECA4FAFA56A/report... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/f/.com.google.firebase.crashlytics.files.v2:com.fitnesskeeper.runkeeper.pro/open-sessions/64855082020A000165795ECA4FAFA56A/start-time... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/f/.com.google.firebase.crashlytics.files.v2:com.fitnesskeeper.runkeeper.pro/open-sessions/64855082020A000165795ECA4FAFA56A/keys... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/f/frc_1:662804283022:android:81ac6a89a35fba74_firebase_activate.json... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/f/AppEventsLogger.persistedevents... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/f/com.google.android.gms.maps._m_u... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/f/SavedClientParameters.data.cs... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/f/generatefid.lock... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/db/follows_database-shm... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/db/guided_workouts_database-shm... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/db/EventLog.sqlite-journal... OK
+2023-06-10 21:50:51  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/db/google_app_measurement_local.db-journal... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/db/ue3.db... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/db/com.google.android.datatransport.events... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/db/com.amplitude.api... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/db/follows_database-wal... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/db/ue3.db-journal... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/db/com.amplitude.api-journal... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/db/EventLog.sqlite... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/db/follows_database... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/db/RunKeeper.sqlite... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/db/com.google.android.datatransport.events-journal... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/db/guided_workouts_database... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/db/guided_workouts_database-wal... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/db/RunKeeper.sqlite-journal... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/db/google_app_measurement_local.db... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/sp/com.facebook.internal.preferences.APP_GATEKEEPERS.xml... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/sp/com.google.maps.api.android.lib6.drd.PREFERENCES_FILE.xml... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/sp/GeoMonitoringSharedPref.xml... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/sp/com.iterable.iterableapi.xml... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/sp/com.facebook.internal.SKU_DETAILS.xml... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/sp/com.fitnesskeeper.runkeeper.pro_preferences.xml... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/sp/itbl_saved_configuration.xml... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/sp/com.facebook.sdk.attributionTracking.xml... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/sp/settings_preference.xml... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/sp/com.google.firebase.crashlytics.xml... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/sp/raceRecordPreferences.xml... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/sp/WebViewChromiumPrefs.xml... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/sp/com.facebook.sdk.appEventPreferences.xml... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/sp/com.google.android.gms.appid.xml... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/sp/frc_1:662804283022:android:81ac6a89a35fba74_firebase_settings.xml... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/sp/com.facebook.sdk.USER_SETTINGS.xml... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/sp/com.google.firebase.messaging.xml... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/sp/com.google.android.gms.measurement.prefs.xml... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/sp/FirebaseHeartBeatW0RFRkFVTFRd+MTo2NjI4MDQyODMwMjI6YW5kcm9pZDo4MWFjNmE4OWEzNWZiYTc0.xml... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/sp/com.facebook.internal.preferences.APP_SETTINGS.xml... OK
+2023-06-10 21:50:52  Reading file: /com.fitnesskeeper.runkeeper.pro/backup/sp/com.fitnesskeeper.runkeeper.coaching.CoachingActivity.xml... OK
+2023-06-10 21:50:52  Obtaining Android device properties... OK
+2023-06-10 21:50:52  Parsing ADB backup... OK (92 files succeeded, 0 files failed)
+2023-06-10 21:50:52  Data extraction finished
+2023-06-10 21:50:52    All 4 archive files were successfully extracted
+2023-06-10 21:50:52    All 8 documents were successfully extracted
+2023-06-10 21:50:52    All 5 image files were successfully extracted
+2023-06-10 21:50:52    All 21 JSON files were successfully extracted
+2023-06-10 21:50:52    All 37 sqlite databases were successfully extracted
+2023-06-10 21:50:52    All 214 XML files were successfully extracted
+2023-06-10 21:50:52    All 922 other files were successfully extracted
+2023-06-10 21:50:52    ADB backup was successfully processed
+2023-06-10 21:50:52    All 4 applications were successfully extracted
+2023-06-10 21:50:52  Phone can be disconnected now
+2023-06-10 21:50:52  Processing source data... OK
+2023-06-10 21:50:58  Running analyzers... OK
+2023-06-10 21:50:52    Preparing main data for analysis... OK
+2023-06-10 21:50:56    Preparing applications for analysis... OK
+2023-06-10 21:50:56    Analyzing runkeeper application... OK
+2023-06-10 21:50:57    Analyzing mapmyfitness application... OK
+2023-06-10 21:50:58    Analyzing adidas running application... OK
+2023-06-10 21:51:02  Creating HTML report... OK
+2023-06-10 21:50:59    Step 1/18, writing adidas running accounts... OK
+2023-06-10 21:50:59    Step 2/18, writing adidas running sport sessions... OK
+2023-06-10 21:50:59    Step 3/18, writing adidas running other media files... OK
+2023-06-10 21:51:00    Step 4/18, writing other media files images... OK
+2023-06-10 21:51:00    Step 5/18, writing other media files documents... OK
+2023-06-10 21:51:00    Step 6/18, writing mapmyfitness accounts... OK
+2023-06-10 21:51:00    Step 7/18, writing mapmyfitness sport sessions... OK
+2023-06-10 21:51:00    Step 8/18, writing mapmyfitness other media files... OK
+2023-06-10 21:51:01    Step 9/18, writing other media files images... OK
+2023-06-10 21:51:01    Step 10/18, writing other media files documents... OK
+2023-06-10 21:51:01    Step 11/18, writing myfitnesspal other media files... OK
+2023-06-10 21:51:02    Step 12/18, writing other media files images... OK
+2023-06-10 21:51:02    Step 13/18, writing other media files documents... OK
+2023-06-10 21:51:02    Step 14/18, writing runkeeper accounts... OK
+2023-06-10 21:51:02    Step 15/18, writing runkeeper media files... OK
+2023-06-10 21:51:02    Step 16/18, writing runkeeper sport sessions... OK
+2023-06-10 21:51:02    Step 17/18, writing runkeeper other media files... OK
+2023-06-10 21:51:02    Step 18/18, writing other media files images... OK
+2023-06-10 21:51:02  HTML report created
+2023-06-10 21:51:02  Splitting report... OK
+2023-06-10 21:51:19  Creating PDF report... OK
+2023-06-10 21:51:05    Step 15/15, writing links and merging... (99%, 376/376, Report.pdf)
+2023-06-10 21:51:19    Packing PDF report... OK
+2023-06-10 21:51:19    Removing temp files... OK
+2023-06-10 21:51:19  PDF report created
+2023-06-10 21:51:20  Creating MS Excel report... OK
+2023-06-10 21:51:20  MS Excel report created
+2023-06-10 21:51:20  Export finished successfully
